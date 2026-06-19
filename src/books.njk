@@ -1,0 +1,97 @@
+---
+title: Books — Kenneth Granberry
+description: A single project, pursued across three books on formation, the examined life, and the defense of what makes us human.
+---
+{% extends "base.njk" %}
+
+{% block styles %}
+<style>
+  .book{
+    display:grid;grid-template-columns:42px 1fr;gap:24px;
+    padding:38px 0;
+    border-top:1px solid var(--rule-light);
+  }
+  .book:last-of-type{border-bottom:1px solid var(--rule-light);}
+  .book .ord{
+    font-family:"Cormorant Garamond",serif;
+    font-size:1.05rem;color:var(--star);
+    padding-top:.55rem;letter-spacing:.04em;
+  }
+  .book h3{
+    font-size:clamp(1.55rem,2.6vw,2.05rem);
+    line-height:1.12;color:var(--ink);
+  }
+  .book .sub{
+    font-style:italic;color:var(--ink-soft);
+    font-size:1.02rem;margin-top:4px;
+  }
+  .book .blurb{margin-top:14px;max-width:60ch;color:#3C3E46;}
+  .book .status{
+    margin-top:16px;font-size:.72rem;letter-spacing:.2em;
+    text-transform:uppercase;color:var(--star);
+  }
+  .book.lead h3{font-size:clamp(1.85rem,3.2vw,2.5rem);}
+  .book.lead .status{color:var(--ink);}
+  .book.lead .status .pin{color:var(--star);}
+  /* Universal buy-links — placeholder until the books are for sale. */
+  .buylinks{margin-top:16px;display:flex;gap:14px;flex-wrap:wrap;}
+  .buylinks .soon{font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;color:var(--mist-dim);}
+  @media (max-width:600px){ .book{grid-template-columns:1fr;gap:8px;} .book .ord{padding-top:0;} }
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="wrap">
+    <span class="eyebrow">The Books <span style="color:var(--mist-dim)">· Forthcoming</span></span>
+    <h1>A single project, pursued across three books.</h1>
+    <p class="sub">One conviction holds them together: the deepest human capacities are formed, not given — and an age that forgets how to form them will not keep them.</p>
+  </div>
+</section>
+
+<section class="page-body">
+  <div class="wrap">
+
+    <article class="book lead">
+      <div class="ord">I</div>
+      <div>
+        <h3>The Mirrored Mind</h3>
+        <div class="sub">A Modern Prophecy and the Road to Redemption</div>
+        <p class="blurb">Plato's cave, the Socratic method, and the Logos, brought to bear on the most powerful cognitive tool ever built — a mirror that returns to each mind a magnified version of whatever that mind brings to it.</p>
+        <div class="status"><span class="pin">●</span>&nbsp; The flagship · in preparation</div>
+        <div class="buylinks"><span class="soon">Buy links to come</span></div>
+      </div>
+    </article>
+
+    <article class="book">
+      <div class="ord">II</div>
+      <div>
+        <h3>The Center That Cannot Be Empty</h3>
+        <div class="sub">Culture, the Sacred, and the Experiment of Our Age</div>
+        <p class="blurb">Whether a civilization can keep what it values after quietly discarding the thing those values were first arranged around. An audit, not a sermon — it stops exactly where the evidence does.</p>
+        <div class="status">Forthcoming</div>
+        <div class="buylinks"><span class="soon">Buy links to come</span></div>
+      </div>
+    </article>
+
+    <article class="book">
+      <div class="ord">III</div>
+      <div>
+        <h3>What the Mirror Does Not See</h3>
+        <div class="sub">On the Epistemic Opacity of AI and the Sovereignty of the Formed Mind</div>
+        <p class="blurb">The model cannot read its own ground; the formed mind can. A case for the authority that formation — and only formation — confers in the encounter with a machine that knows everything and discerns nothing.</p>
+        <div class="status">Forthcoming</div>
+        <div class="buylinks"><span class="soon">Buy links to come</span></div>
+      </div>
+    </article>
+
+    {#
+      FUTURE ENTRY — "The AI Entrepreneur's Blueprint" (with Nicholas Granberry)
+      will slot in here as an additional title once its presentation on the
+      literary hub is decided. Its commercial landing page can remain a
+      separate property linked from this entry.
+    #}
+
+  </div>
+</section>
+{% endblock %}

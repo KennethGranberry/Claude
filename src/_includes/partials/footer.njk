@@ -1,0 +1,17 @@
+<footer>
+  <div class="wrap">
+    <div class="motto reveal">
+      <div class="latin">{{ site.motto.latin }}</div>
+      <div class="rule"></div>
+      <div class="english">{{ site.motto.english }}</div>
+    </div>
+    <div class="foot-grid">
+      <div class="imprint">{{ site.imprint }}</div>
+      <nav class="foot-nav" aria-label="Footer">
+        {%- for item in site.footerNav %}
+        <a href="{{ item.url }}">{{ item.text }}</a>
+        {%- endfor %}
+      </nav>
+    </div>
+  </div>
+</footer>

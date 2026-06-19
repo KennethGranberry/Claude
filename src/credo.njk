@@ -1,0 +1,158 @@
+---
+title: The Credo — Kenneth Granberry
+description: A vow is not an answer one reaches. It is a question one agrees to keep answering. Four live beneath the motto — Humanitatis, Tuitio, Fidem, Opera.
+---
+{% extends "base.njk" %}
+
+{% block bodyClass %}theme-night{% endblock %}
+
+{% block styles %}
+<style>
+  .credo-section{position:relative;overflow:hidden;padding:150px 0 104px;}
+  .credo-section::before{content:"";position:absolute;left:50%;top:-22%;transform:translateX(-50%);width:124%;height:90%;background:radial-gradient(ellipse at center,rgba(210,168,92,.15),rgba(210,168,92,0) 60%);pointer-events:none;}
+  .credo-section .wrap{max-width:880px;position:relative;z-index:2;}
+
+  /* Header: the motto, with its four load-bearing words illuminated */
+  .head{text-align:center;margin-bottom:18px;}
+  .credo-star{width:38px;height:38px;margin:0 auto 26px;display:block;filter:drop-shadow(0 0 13px rgba(230,192,121,.5));}
+  .credo-star path{fill:var(--star-bright);}
+  .motto{
+    font-family:"Cormorant Garamond",serif;font-style:italic;
+    font-size:clamp(1.9rem,4.6vw,3.1rem);line-height:1.18;color:var(--paper);
+    letter-spacing:.005em;
+  }
+  .motto .key{color:var(--star-bright);font-style:italic;}
+  .motto .con{color:var(--mist-dim);}
+  .gloss{margin-top:16px;font-size:.96rem;letter-spacing:.06em;color:var(--mist);text-transform:lowercase;}
+  .gloss::first-letter{text-transform:uppercase;}
+
+  .lede{
+    text-align:center;max-width:46ch;margin:34px auto 0;
+    font-style:italic;color:var(--mist);font-size:1.08rem;
+  }
+
+  .rule{width:54px;height:1px;background:var(--star);opacity:.7;margin:46px auto 0;}
+
+  /* The four motions */
+  .motions{margin-top:54px;}
+  .motion{
+    display:grid;grid-template-columns:200px 1fr;gap:38px;align-items:start;
+    padding:34px 0;border-top:1px solid rgba(255,255,255,.08);
+  }
+  .motion:first-child{border-top:none;}
+  .motion .word{padding-top:4px;}
+  .motion .latin{
+    font-family:"Cormorant Garamond",serif;font-size:clamp(1.7rem,2.4vw,2.1rem);
+    color:var(--star-bright);line-height:1;
+  }
+  .motion .label{
+    display:block;margin-top:12px;
+    font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;color:var(--mist-dim);
+  }
+  .motion .q{
+    font-family:"Cormorant Garamond",serif;
+    font-size:clamp(1.4rem,2.6vw,1.78rem);line-height:1.22;color:var(--paper);
+  }
+  .motion .body{margin-top:12px;color:#DBD5C7;max-width:54ch;font-size:1.04rem;}
+  @media (max-width:640px){
+    .motion{grid-template-columns:1fr;gap:14px;}
+    .motion .word{padding-top:0;}
+    .motion .label{margin-top:8px;}
+  }
+
+  .synthesis{
+    text-align:center;margin-top:62px;padding-top:40px;border-top:1px solid var(--rule-dark);
+  }
+  .synthesis .line{
+    font-family:"Cormorant Garamond",serif;font-style:italic;
+    font-size:clamp(1.5rem,3vw,2.05rem);color:var(--star-bright);line-height:1.22;max-width:26ch;margin:0 auto;
+  }
+  .synthesis .bind{margin-top:22px;font-size:.96rem;color:var(--mist);font-style:italic;}
+
+  .dawn{position:relative;text-align:center;margin-top:58px;padding:56px 0 8px;}
+  .dawn::before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:132%;height:260%;pointer-events:none;
+    background:radial-gradient(ellipse at center,rgba(230,192,121,.17),rgba(210,168,92,.05) 46%,rgba(210,168,92,0) 70%);}
+  .dawn .dawnline{position:relative;font-family:"Cormorant Garamond",serif;font-style:italic;
+    font-size:clamp(1.5rem,3.1vw,2.1rem);line-height:1.28;color:var(--star-bright);
+    max-width:30ch;margin:0 auto;text-shadow:0 0 28px rgba(230,192,121,.30);}
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="credo-section">
+  <div class="wrap">
+
+    <div class="head reveal">
+      <svg class="credo-star" viewBox="0 0 100 100" aria-hidden="true">
+        <path d="M50 0 C53 34 66 47 100 50 C66 53 53 66 50 100 C47 66 34 53 0 50 C34 47 47 34 50 0 Z"/>
+      </svg>
+      <div class="motto">
+        <span class="key">Tuitio</span> <span class="key">Humanitatis</span> <span class="con">per</span> <span class="key">Fidem</span> <span class="con">et</span> <span class="key">Opera</span>
+      </div>
+      <div class="gloss">Defense of Humanity Through Faith and Works</div>
+    </div>
+
+    <p class="lede reveal">A vow is not an answer one reaches. It is a question one agrees to keep answering. Four live beneath this one.</p>
+
+    <div class="rule reveal" aria-hidden="true"></div>
+
+    <div class="motions">
+
+      <div class="motion reveal">
+        <div class="word">
+          <div class="latin">Humanitatis</div>
+          <span class="label">The thing</span>
+        </div>
+        <div>
+          <div class="q">What is the human — and what merely wears its likeness?</div>
+          <p class="body">You cannot defend what you cannot define. The vow begins by asking what a person is, and what only counterfeits one — a question made urgent now that a machine can wear every outward sign of the human and hold none of its substance.</p>
+        </div>
+      </div>
+
+      <div class="motion reveal">
+        <div class="word">
+          <div class="latin">Tuitio</div>
+          <span class="label">The watch</span>
+        </div>
+        <div>
+          <div class="q">Guarded against what, this season — and are my eyes even open?</div>
+          <p class="body">To guard is first to watch. The threat is never fixed — the cave, the crowd, the distribution, the counterfeit light — and the first failure is never losing the battle. It is looking away.</p>
+        </div>
+      </div>
+
+      <div class="motion reveal">
+        <div class="word">
+          <div class="latin">Fidem</div>
+          <span class="label">The ground</span>
+        </div>
+        <div>
+          <div class="q">Anchored to what fixed point — and do I hold it, or only its inheritance?</div>
+          <p class="body">A defense oriented toward nothing is only motion. The vow asks whether the faith is real, or merely kept for its furniture — the estate run on borrowed capital and called solvent.</p>
+        </div>
+      </div>
+
+      <div class="motion reveal">
+        <div class="word">
+          <div class="latin">Opera</div>
+          <span class="label">The work</span>
+        </div>
+        <div>
+          <div class="q">What must I build — and what will it cost?</div>
+          <p class="body">Faith that makes nothing is inert; works that issue from nothing are the cave performing seriousness. The vow does not stay in the head. It asks for the deed, and it names the price of the deed.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="synthesis reveal">
+      <div class="line">The thing, the threat, the ground, the work.</div>
+      <div class="bind">Faith and works — and the vow is failed the moment one is let go of the other.</div>
+    </div>
+
+    <div class="dawn reveal">
+      <div class="dawnline">The watch is kept through the dark, and the light has never been overcome.</div>
+    </div>
+
+  </div>
+</section>
+{% endblock %}

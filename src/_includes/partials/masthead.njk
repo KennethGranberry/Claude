@@ -1,0 +1,10 @@
+<header class="masthead" id="masthead">
+  <div class="wrap">
+    <a class="brand" href="/">Kenneth&nbsp;Granberry</a>
+    <nav class="primary" aria-label="Primary">
+      {%- for item in site.nav %}
+      <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+      {%- endfor %}
+    </nav>
+  </div>
+</header>

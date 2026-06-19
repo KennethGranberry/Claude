@@ -1,0 +1,314 @@
+---
+title: Kenneth Granberry
+description: Kenneth Granberry writes on formation, wisdom, and the defense of what makes us human — and on the machine that has made their absence suddenly expensive.
+---
+{% extends "base.njk" %}
+
+{% block bodyClass %}theme-night{% endblock %}
+
+{% block styles %}
+<style>
+  /* ---------- Hero (NIGHT) ---------- */
+  .hero{
+    position:relative;
+    min-height:100svh;
+    display:flex;flex-direction:column;justify-content:center;
+    padding:140px 0 90px;
+    overflow:hidden;
+  }
+  .hero::before{ /* ambient dawn glow rising from below */
+    content:"";position:absolute;left:50%;bottom:-38%;transform:translateX(-50%);
+    width:120%;height:80%;
+    background:radial-gradient(ellipse at center, rgba(210,168,92,.10), rgba(210,168,92,0) 62%);
+    pointer-events:none;
+  }
+  .hero-inner{position:relative;z-index:2;max-width:880px;}
+
+  .star{
+    width:46px;height:46px;margin-bottom:30px;display:block;
+    filter:drop-shadow(0 0 14px rgba(230,192,121,.55));
+  }
+  .star path{fill:var(--star-bright);}
+
+  .hero h1{
+    font-size:clamp(2.5rem,5.6vw,4.6rem);
+    line-height:1.04;
+    letter-spacing:-.01em;
+    color:var(--paper);
+    max-width:18ch;
+  }
+  .hero h1 em{font-style:italic;color:var(--star-bright);font-weight:500;}
+
+  .epigraph{
+    margin-top:26px;
+    font-style:italic;
+    font-size:1.06rem;
+    color:var(--mist);
+    max-width:46ch;
+  }
+  .epigraph cite{display:block;font-style:normal;font-size:.74rem;letter-spacing:.18em;text-transform:uppercase;color:var(--mist-dim);margin-top:10px;}
+
+  .lede{
+    margin-top:34px;
+    max-width:var(--measure);
+    color:#D7D2C6;
+    font-size:1.12rem;
+  }
+  .lede strong{color:var(--paper);font-weight:500;}
+
+  /* ---------- Email capture ---------- */
+  .capture{margin-top:40px;max-width:540px;}
+  .capture .eyebrow{color:var(--star);display:block;margin-bottom:14px;}
+  .capture form{display:flex;gap:10px;}
+  .capture input[type=email]{
+    flex:1;min-width:0;
+    background:transparent;
+    border:1px solid var(--rule-dark);
+    border-radius:0;
+    color:var(--paper);
+    font-family:"EB Garamond",serif;
+    font-size:1rem;
+    padding:14px 16px;
+    transition:border-color .25s ease;
+  }
+  .capture input[type=email]::placeholder{color:var(--mist-dim);}
+  .capture input[type=email]:focus{outline:none;border-color:var(--star);}
+  .capture button{
+    background:var(--star);
+    color:var(--night-deep);
+    border:1px solid var(--star);
+    border-radius:0;
+    font-family:"EB Garamond",serif;
+    font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;
+    padding:14px 24px;cursor:pointer;white-space:nowrap;
+    transition:background .25s ease,color .25s ease;
+  }
+  .capture button:hover,.capture button:focus-visible{background:var(--star-bright);outline:none;}
+  .capture .reassure{margin-top:12px;font-size:.86rem;color:var(--mist-dim);}
+  .capture.done .form-row{display:none;}
+  .capture .confirm{display:none;color:var(--star-bright);font-style:italic;font-size:1.08rem;}
+  .capture.done .confirm{display:block;}
+  @media (max-width:520px){
+    .capture form{flex-direction:column;}
+    .capture button{padding:14px;}
+  }
+
+  /* ---------- Dawn transition ---------- */
+  .dawn{
+    height:200px;
+    background:linear-gradient(to bottom,var(--night) 0%, #4A4536 52%, var(--paper) 100%);
+  }
+
+  /* ---------- Light sections (DAWN) ---------- */
+  .light{background:var(--paper);color:var(--ink);}
+  section.band{padding:96px 0;}
+  @media (max-width:600px){ section.band{padding:64px 0;} }
+
+  .section-head{margin-bottom:48px;}
+  .section-head .eyebrow{color:var(--star);display:block;}
+  .section-head .eyebrow .dim{color:var(--ink-soft);}
+  .section-head h2{
+    font-size:clamp(1.9rem,3.6vw,2.7rem);
+    margin-top:14px;line-height:1.1;color:var(--ink);
+    max-width:20ch;
+  }
+  .section-head p{margin-top:16px;max-width:var(--measure);color:var(--ink-soft);}
+
+  /* Books */
+  .book{
+    display:grid;grid-template-columns:42px 1fr;gap:24px;
+    padding:34px 0;
+    border-top:1px solid var(--rule-light);
+  }
+  .book:last-child{border-bottom:1px solid var(--rule-light);}
+  .book .ord{
+    font-family:"Cormorant Garamond",serif;
+    font-size:1.05rem;color:var(--star);
+    padding-top:.55rem;letter-spacing:.04em;
+  }
+  .book h3{
+    font-size:clamp(1.55rem,2.6vw,2.05rem);
+    line-height:1.12;color:var(--ink);
+  }
+  .book .sub{
+    font-style:italic;color:var(--ink-soft);
+    font-size:1.02rem;margin-top:4px;
+  }
+  .book .blurb{margin-top:14px;max-width:60ch;color:#3C3E46;}
+  .book .status{
+    margin-top:14px;font-size:.72rem;letter-spacing:.2em;
+    text-transform:uppercase;color:var(--star);
+  }
+  .book.lead h3{font-size:clamp(1.85rem,3.2vw,2.5rem);}
+  .book.lead .status{color:var(--ink);}
+  .book.lead .status .pin{color:var(--star);}
+
+  /* glyph divider */
+  .divider{display:flex;align-items:center;gap:22px;color:var(--star);padding:8px 0;}
+  .divider::before,.divider::after{content:"";height:1px;background:var(--rule-light);flex:1;}
+  .divider .glyph{font-family:"Cormorant Garamond",serif;font-size:1.1rem;}
+
+  /* Writing empty state */
+  .writing-note{
+    max-width:var(--measure);color:var(--ink-soft);font-size:1.08rem;
+  }
+  .writing-list{margin-top:30px;border-top:1px solid var(--rule-light);}
+  .writing-item{
+    display:flex;justify-content:space-between;align-items:baseline;gap:18px;
+    padding:22px 0;border-bottom:1px solid var(--rule-light);
+  }
+  .writing-item .t{font-family:"Cormorant Garamond",serif;font-size:1.4rem;color:var(--ink);}
+  .writing-item .t span{display:block;font-family:"EB Garamond",serif;font-size:.95rem;font-style:italic;color:var(--ink-soft);margin-top:2px;}
+  .writing-item .meta{font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--star);white-space:nowrap;}
+
+  /* About teaser */
+  .about-grid{display:grid;grid-template-columns:1fr 1.4fr;gap:60px;align-items:start;}
+  @media (max-width:760px){ .about-grid{grid-template-columns:1fr;gap:28px;} }
+  .about-body p{max-width:62ch;color:#34363E;margin:0 0 18px;}
+  .about-body p:first-child{font-size:1.18rem;color:var(--ink);}
+  .readmore{
+    display:inline-block;margin-top:8px;
+    font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--ink);text-decoration:none;
+    border-bottom:1px solid var(--star);padding-bottom:3px;
+    transition:color .25s ease;
+  }
+  .readmore:hover{color:var(--star);}
+
+  /* hero reveal stagger */
+  .hero .reveal{transition-delay:var(--d,0ms);}
+  @media (prefers-reduced-motion:reduce){
+    .star{filter:drop-shadow(0 0 10px rgba(230,192,121,.4));}
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <svg class="star reveal" style="--d:0ms" viewBox="0 0 100 100" aria-hidden="true">
+        <path d="M50 0 C53 34 66 47 100 50 C66 53 53 66 50 100 C47 66 34 53 0 50 C34 47 47 34 50 0 Z"/>
+      </svg>
+
+      <h1 class="reveal" style="--d:90ms">The examined life, when the <em>unexamined answer</em> is always at hand.</h1>
+
+      <p class="epigraph reveal" style="--d:200ms">
+        The light shines in the darkness, and the darkness has not overcome it.
+        <cite>John 1:5</cite>
+      </p>
+
+      <p class="lede reveal" style="--d:300ms">
+        Kenneth Granberry writes on <strong>formation, wisdom, and the defense of what makes us human</strong> — and on the machine that has made their absence suddenly expensive. Three books are forthcoming. The essays begin this year.
+      </p>
+
+      <div class="capture reveal" id="subscribe" style="--d:400ms" data-capture-holder>
+        <span class="eyebrow">Read the essays as they appear</span>
+        <form id="subscribe-form" novalidate data-capture="class">
+          <div class="form-row" style="display:flex;gap:10px;width:100%">
+            <input type="email" id="email" name="email" placeholder="your@email.com" aria-label="Email address" required>
+            <button type="submit">Subscribe</button>
+          </div>
+          <p class="confirm">You're on the list. The first essays are on their way.</p>
+        </form>
+        <p class="reassure">Occasional essays. No noise. Unsubscribe anytime.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="dawn" aria-hidden="true"></div>
+
+  <div class="light">
+
+    <!-- BOOKS -->
+    <section class="band" id="books">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <span class="eyebrow">The Books <span class="dim">· Forthcoming</span></span>
+          <h2>A single project, pursued across three books.</h2>
+          <p>One conviction holds them together: the deepest human capacities are formed, not given — and an age that forgets how to form them will not keep them.</p>
+        </div>
+
+        <article class="book lead reveal">
+          <div class="ord">I</div>
+          <div>
+            <h3>The Mirrored Mind</h3>
+            <div class="sub">A Modern Prophecy and the Road to Redemption</div>
+            <p class="blurb">Plato's cave, the Socratic method, and the Logos, brought to bear on the most powerful cognitive tool ever built — a mirror that returns to each mind a magnified version of whatever that mind brings to it.</p>
+            <div class="status"><span class="pin">●</span>&nbsp; The flagship · in preparation</div>
+          </div>
+        </article>
+
+        <article class="book reveal">
+          <div class="ord">II</div>
+          <div>
+            <h3>The Center That Cannot Be Empty</h3>
+            <div class="sub">Culture, the Sacred, and the Experiment of Our Age</div>
+            <p class="blurb">Whether a civilization can keep what it values after quietly discarding the thing those values were first arranged around. An audit, not a sermon — it stops exactly where the evidence does.</p>
+            <div class="status">Forthcoming</div>
+          </div>
+        </article>
+
+        <article class="book reveal">
+          <div class="ord">III</div>
+          <div>
+            <h3>What the Mirror Does Not See</h3>
+            <div class="sub">On the Epistemic Opacity of AI and the Sovereignty of the Formed Mind</div>
+            <p class="blurb">The model cannot read its own ground; the formed mind can. A case for the authority that formation — and only formation — confers in the encounter with a machine that knows everything and discerns nothing.</p>
+            <div class="status">Forthcoming</div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- WRITING -->
+    <section class="band" id="writing" style="padding-top:0">
+      <div class="wrap">
+        <div class="divider reveal"><span class="glyph">✦</span></div>
+        <div class="section-head reveal" style="margin-top:48px">
+          <span class="eyebrow">The Writing</span>
+          <h2>The essays come first.</h2>
+          <p class="writing-note">Before the books, a sequence of essays takes up formation and the examined life in the age of AI. They will appear here as they are published, and stay collected for readers who arrive later.</p>
+        </div>
+
+        <div class="writing-list reveal">
+          <div class="writing-item">
+            <div class="t">The Cultivation<span>On what a mind must become before the machine can serve it</span></div>
+            <div class="meta">In progress</div>
+          </div>
+          <div class="writing-item">
+            <div class="t">The Jinn Has Left the Bottle<span>What the folktales knew about large language models</span></div>
+            <div class="meta">In progress</div>
+          </div>
+          <div class="writing-item">
+            <div class="t">The Law Written Twice<span>On Hume's gap, and the world it quietly assumes</span></div>
+            <div class="meta">In progress</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="band" id="about" style="padding-top:0">
+      <div class="wrap">
+        <div class="divider reveal"><span class="glyph">✦</span></div>
+        <div class="about-grid reveal" style="margin-top:56px">
+          <div class="section-head" style="margin:0">
+            <span class="eyebrow">About</span>
+            <h2>The author</h2>
+          </div>
+          <div class="about-body">
+            <p>For as long as he has written, Kenneth Granberry has asked one question in many forms: what must a person become to meet the world and not lose himself in it?</p>
+            <p>His work moves from philosophy and theology to cultural criticism to the practical craft of building — and treats the arrival of artificial intelligence not as its subject but as its occasion. The machine, he argues, is an amplifier of whatever formation the mind brings to it. It has not retired the old disciplines of the examined life. It has made their absence, for the first time, immediately and measurably costly.</p>
+            <a class="readmore" href="/about/">Read more about Kenneth →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+</main>
+{% endblock %}
