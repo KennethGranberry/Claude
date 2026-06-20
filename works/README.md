@@ -18,5 +18,16 @@ registers, and its writing system / voice palette.
   voice palette held in The Mirrored Mind.
 - **Standalone** — The Wise Life · The Jinn Has Left the Bottle · The Law
   Written Twice · The Morning Star · The Performance Gap.
+- **ELI** — a novel (older work). Parts One & Two drafted; *Sara: The Morning
+  Protocol* is an embedded chapter (the atrocity the witness witnesses). The
+  narrative present — the inherited-Sara choice and the redemptive ending — is
+  planned, not yet on the page.
+
+**Provenance (per Kenneth):** The trilogy, the four essays, and the Wise Life
+compendium were written in a recent ~8-week sprint — first-generation drafts, so
+their rough edges (leaking apparatus, repetition, unverified citations) are a
+revision/verification gap, not a capacity gap. *The Entrepreneur's Blueprint* and
+*ELI* (including its *Sara* chapter) predate the sprint and are more worked;
+ELI's prose is the corpus's quality benchmark. Read and assess each accordingly.
 
 **Confidentiality:** Option 1 — manuscripts tracked in this private repo.
