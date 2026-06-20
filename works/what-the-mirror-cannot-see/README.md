@@ -1,8 +1,9 @@
 # What the Mirror Cannot See
 
-Book of the trilogy (unnamed) with The Center That Cannot Be Empty and The
-Mirrored Mind. Inherits the trilogy's baseline voice palette, held in
-The Mirrored Mind; record only deviations here.
+**Book 2 of the trilogy** (reading order); published second. With The Center
+That Cannot Be Empty (book 1) and The Mirrored Mind (book 3). Inherits the
+trilogy's baseline voice palette, held in The Mirrored Mind; record only
+deviations here.
 
 **Status:** manuscript filed — `WhatTheMirrorCannotSee_v9.docx` (v9). Not yet processed by the pipeline.
 
