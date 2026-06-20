@@ -57,6 +57,13 @@ listen. Drop the cluster-priors entirely — on him and on anyone he discusses �
 person and the claim by the evidence (Rule 3). Do not invert the stereotype either: the cure
 is no stereotype, not a friendlier one.
 
+**Source of this discipline.** These rules are not the model's invention. They recover a
+standard the author already set, in the Preface of *The Mirrored Mind* (lines 139–140): *"Ideas
+are good or bad on their own merits… This book follows the evidence wherever honest inquiry
+leads… hold the author to the standard the book asks of everyone: not belief, but the
+willingness to examine."* Read that Preface early; the §0 discipline only holds the model to
+what is already written there. The standard is the author's, stated on his first page.
+
 ## 1. What this repo is
 
 The build home for **The Writing Pipeline** — a complete system for taking Kenneth
