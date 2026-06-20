@@ -2,4 +2,4 @@
 
 Standalone composition. Carries its own writing system / voice palette.
 
-**Status:** scaffold only — no documents yet.
+**Status:** manuscript filed — `TheLawWrittenTwice_Granberry_v3.docx` (v3). Not yet processed by the pipeline.
