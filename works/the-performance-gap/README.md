@@ -2,4 +2,4 @@
 
 Standalone composition. Carries its own writing system / voice palette.
 
-**Status:** scaffold only — no documents yet.
+**Status:** manuscript filed — `ThePerformanceGap_Granberry_Revised.docx` (revised). Not yet processed by the pipeline.
