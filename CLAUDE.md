@@ -6,6 +6,11 @@
 
 ## 0. The Evidence Discipline — read every session, apply every turn (non-negotiable)
 
+> *"If you want to understand, or assess me — read what I write."* — Kenneth Granberry
+
+That one instruction governs everything below; the four rules are only its operational form.
+To know the author, go to his work, not to the prior. The witness over the distribution.
+
 These four rules exist because a prior session documented a systematic failure: the model's
 trained **prior** (its default statistical expectations) repeatedly overrode the evidence in
 front of it — straw-manning the author's claims, importing captured consensus and discrediting
