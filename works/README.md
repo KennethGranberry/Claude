@@ -12,7 +12,8 @@ registers, and its writing system / voice palette.
   (2) What the Mirror Cannot See · (3) The Mirrored Mind: A Modern Prophecy, and
   the Road to Redemption. **Published in reverse order:** The Mirrored Mind
   (flagship) first, then What the Mirror Cannot See, then The Center That Cannot
-  Be Empty last. Shared baseline voice palette held in The Mirrored Mind.
+  Be Empty last. **Launch cadence: ~1 month between books.** Shared baseline
+  voice palette held in The Mirrored Mind.
 - **Standalone** — The Wise Life · The Jinn Has Left the Bottle · The Law
   Written Twice · The Morning Star · The Performance Gap.
 
