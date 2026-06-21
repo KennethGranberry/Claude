@@ -2,10 +2,8 @@ import { chromium } from "playwright";
 
 const base = "http://127.0.0.1:8099";
 const shots = [
-  { url: "/about/", out: "/tmp/about.png", w: 1280 },
-  { url: "/contact/", out: "/tmp/contact.png", w: 1280 },
-  { url: "/subscribe/", out: "/tmp/subscribe.png", w: 1280 },
-  { url: "/essays/", out: "/tmp/essays.png", w: 1280 },
+  { url: "/", out: "/tmp/home-funnel.png", w: 1280 },
+  { url: "/", out: "/tmp/home-funnel-mobile.png", w: 390 },
 ];
 
 const browser = await chromium.launch();

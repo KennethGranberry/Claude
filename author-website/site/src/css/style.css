@@ -203,3 +203,28 @@ img { max-width: 100%; height: auto; display: block; }
 .essay-list h3 a { text-decoration: none; color: var(--ink); }
 .essay-list h3 a:hover { color: var(--accent); }
 .essay-date { font-family: var(--serif-head); font-size: 0.82rem; letter-spacing: 0.06em; color: var(--ink-soft); text-transform: uppercase; }
+
+/* ── Email capture / funnel ───────────────────────────────────────────── */
+.vh {
+  position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.hero-capture { margin-top: 1.8rem; max-width: 40rem; }
+.capture-promise { font-size: 1.02rem; color: var(--ink-soft); margin: 0 0 0.8rem; }
+.capture-promise strong { color: var(--accent); font-family: var(--serif-head); }
+.capture-alt { font-size: 0.92rem; color: var(--ink-soft); margin: 0.8rem 0 0; }
+
+.signup .signup-fields { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: stretch; }
+.signup input {
+  font-family: var(--serif-body); font-size: 1rem; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--rule);
+  padding: 0.65em 0.8em; flex: 1 1 12rem; min-width: 0;
+}
+.signup input:focus { border-color: var(--accent); outline: 2px solid var(--accent); outline-offset: 1px; }
+.signup .btn { flex: 0 0 auto; cursor: pointer; }
+
+/* Dark variant for the site-wide band */
+.signup.on-dark .signup-fields { justify-content: center; }
+.signup.on-dark input { background: #2b2622; border-color: #4a443d; color: var(--paper); }
+.signup.on-dark input::placeholder { color: #b8afa2; }
+.signup.on-dark input:focus { border-color: var(--accent-hi); outline-color: var(--accent-hi); }

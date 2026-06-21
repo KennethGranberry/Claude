@@ -1,3 +1,4 @@
+{% from "partials/forms.njk" import signupForm %}
 <!doctype html>
 <html lang="en">
 <head>
@@ -48,8 +49,8 @@
   <section class="news" aria-labelledby="news-h">
     <div class="wrap">
       <h2 id="news-h">Stay in the work</h2>
-      <p>New essays and word of each book as it arrives. The list is the one place I reach readers directly.</p>
-      <p><a class="btn" href="/subscribe/">Join the readers</a></p>
+      <p>New essays and word of each book as it arrives. The list is the one place I reach readers directly — no algorithm in between.</p>
+      {{ signupForm("Join the readers", "band", "on-dark") }}
     </div>
   </section>
   {% endif %}

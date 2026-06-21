@@ -1,0 +1,15 @@
+{# Reusable inline email-capture form.
+   Replace the <form> action with your newsletter provider's embed/endpoint
+   (Kit / MailerLite / Substack / beehiiv) before launch — spec §9.5. #}
+
+{% macro signupForm(submitLabel, idPrefix, theme="") %}
+<form class="signup {{ theme }}" action="#" method="POST" aria-label="Email sign-up">
+  <div class="signup-fields">
+    <label class="vh" for="{{ idPrefix }}-name">First name</label>
+    <input id="{{ idPrefix }}-name" name="name" type="text" placeholder="First name" autocomplete="given-name">
+    <label class="vh" for="{{ idPrefix }}-email">Email address</label>
+    <input id="{{ idPrefix }}-email" name="email" type="email" required placeholder="Email address" autocomplete="email">
+    <button class="btn" type="submit">{{ submitLabel }}</button>
+  </div>
+</form>
+{% endmacro %}

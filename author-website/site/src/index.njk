@@ -4,6 +4,7 @@ title: ""
 eleventyNavigation:
   key: Home
 ---
+{% from "partials/forms.njk" import signupForm %}
 
 {% set flagship = books.titles["the-mirrored-mind"] %}
 
@@ -11,9 +12,11 @@ eleventyNavigation:
   <div class="wrap">
     <h1>{{ site.heroHeadline }}</h1>
     <p class="lede">{{ site.heroSupport }}</p>
-    <div class="cta-row">
-      <a class="btn" href="{{ site.primaryCta.href }}">{{ site.primaryCta.label }}</a>
-      <a class="btn ghost" href="/books/the-mirrored-mind/">Begin with The Mirrored Mind</a>
+
+    <div class="hero-capture">
+      <p class="capture-promise"><strong>Free:</strong> [reader magnet — a standalone essay, or a sampler from <em>The Wise Life</em>] — plus new essays and word of each book as it arrives.</p>
+      {{ signupForm("Get it", "hero") }}
+      <p class="capture-alt">Prefer to start reading? <a href="/books/the-mirrored-mind/">Begin with The Mirrored Mind &rarr;</a></p>
     </div>
   </div>
 </section>
