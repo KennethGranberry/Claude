@@ -1,0 +1,1297 @@
+FILE: works/the-wise-life/The_Wise_Life_Compendium_COMPLETE.md
+Body paragraphs: 261   Words: 19224   Unique words: 3083
+
+REPEATED PHRASES (4+ words, appearing >1) — 627 maximal phrases
+----------------------------------------------------------------
+  10×  [4w]  "at the level of"
+        ¶17, ¶32, ¶40, ¶53, ¶62, ¶81, ¶120, ¶197
+  10×  [4w]  "not the last word"
+        ¶1, ¶26, ¶166, ¶168, ¶181, ¶182, ¶183, ¶185 +2
+  9×  [4w]  "a way of life"
+        ¶1, ¶26, ¶104, ¶105, ¶106, ¶118, ¶191, ¶230
+  9×  [4w]  "as a way of"
+        ¶1, ¶26, ¶104, ¶106, ¶118, ¶191, ¶230
+  8×  [5w]  "as a way of life"
+        ¶1, ¶26, ¶104, ¶106, ¶118, ¶191, ¶230
+  7×  [6w]  "philosophy as a way of life"
+        ¶1, ¶26, ¶104, ¶106, ¶118, ¶230
+  7×  [4w]  "is to learn to"
+        ¶158, ¶159, ¶167, ¶189, ¶246, ¶247
+  7×  [4w]  "synth this is the"
+        ¶50, ¶58, ¶61, ¶93, ¶110, ¶121, ¶129
+  7×  [4w]  "to learn to die"
+        ¶158, ¶159, ¶167, ¶189, ¶246, ¶247
+  6×  [4w]  "and it is the"
+        ¶40, ¶87, ¶108, ¶186, ¶190, ¶199
+  6×  [4w]  "that death is not"
+        ¶157, ¶182, ¶183, ¶185, ¶191, ¶205
+  6×  [4w]  "the convergence divergence structure"
+        ¶67, ¶82, ¶94, ¶99, ¶113, ¶165
+  5×  [7w]  "to philosophize is to learn to die"
+        ¶158, ¶167, ¶246, ¶247
+  5×  [6w]  "death as not the last word"
+        ¶1, ¶26, ¶166, ¶168, ¶181
+  5×  [6w]  "death is not the last word"
+        ¶182, ¶183, ¶185, ¶191, ¶205
+  5×  [5w]  "at the level of dimensions"
+        ¶17, ¶32, ¶62, ¶81, ¶197
+  5×  [4w]  "for the cross-cutting finding"
+        ¶86, ¶104, ¶154, ¶168, ¶181
+  5×  [4w]  "learning to die is"
+        ¶160, ¶164, ¶168, ¶189, ¶210
+  5×  [4w]  "of the self the"
+        ¶81, ¶98, ¶118, ¶198, ¶232
+  5×  [4w]  "the ground is the"
+        ¶22, ¶59, ¶161, ¶192, ¶205
+  4×  [7w]  "dive death as not the last word"
+        ¶1, ¶166, ¶168, ¶181
+  4×  [7w]  "learning to die is learning to live"
+        ¶164, ¶168, ¶189, ¶210
+  4×  [7w]  "that death is not the last word"
+        ¶182, ¶185, ¶191, ¶205
+  4×  [5w]  "at the highest stakes the"
+        ¶165, ¶191, ¶201, ¶209
+  4×  [5w]  "good that is not god"
+        ¶150, ¶153, ¶200, ¶242
+  4×  [4w]  "at full strength and"
+        ¶7, ¶46, ¶179, ¶182
+  4×  [4w]  "attend to the present"
+        ¶124, ¶127, ¶131, ¶134
+  4×  [4w]  "dive inside vs outside"
+        ¶1, ¶26, ¶40, ¶77
+  4×  [4w]  "dive is where the"
+        ¶139, ¶179, ¶182, ¶191
+  4×  [4w]  "dive the empirical turn"
+        ¶1, ¶26, ¶42, ¶67
+  4×  [4w]  "divergence at the ground"
+        ¶22, ¶191, ¶195, ¶209
+  4×  [4w]  "held in good faith"
+        ¶186, ¶193, ¶206, ¶249
+  4×  [4w]  "is where the witness"
+        ¶168, ¶179, ¶181, ¶191
+  4×  [4w]  "the cross-cutting finding the"
+        ¶86, ¶138, ¶154, ¶181
+  4×  [4w]  "the denial of death"
+        ¶171, ¶172, ¶180, ¶251
+  4×  [4w]  "the divergence at the"
+        ¶22, ¶135, ¶201, ¶209
+  4×  [4w]  "the need for a"
+        ¶153, ¶180, ¶245, ¶251
+  4×  [4w]  "weil and murdoch on"
+        ¶104, ¶119, ¶138, ¶147
+  3×  [8w]  "how a wise life is tested and completed"
+        ¶26, ¶155, ¶191
+  3×  [8w]  "that to philosophize is to learn to die"
+        ¶158, ¶167, ¶247
+  3×  [7w]  "at the level of dimensions and diverge"
+        ¶17, ¶32, ¶197
+  3×  [7w]  "kathryn mannix with the end in mind"
+        ¶175, ¶180, ¶257
+  3×  [7w]  "weil and murdoch on attention as unselfing"
+        ¶104, ¶119, ¶138
+  3×  [7w]  "what does a good day look like"
+        ¶174, ¶180, ¶254
+  3×  [6w]  "agrees you must face the end"
+        ¶155, ¶165, ¶201
+  3×  [6w]  "on death and dying broke the"
+        ¶175, ¶180, ¶256
+  3×  [6w]  "the apex of the examination tradition"
+        ¶133, ¶137, ¶239
+  3×  [6w]  "the explicit dual-scale of the mirror"
+        ¶129, ¶137, ¶237
+  3×  [5w]  "envision asked what wisdom is"
+        ¶105, ¶155, ¶191
+  3×  [5w]  "for the cross-cutting finding the"
+        ¶86, ¶154, ¶181
+  3×  [5w]  "material for the cross-cutting finding"
+        ¶86, ¶104, ¶168
+  3×  [5w]  "substance of love of neighbor"
+        ¶141, ¶153, ¶241
+  3×  [5w]  "terror management theory pyszczynski solomon"
+        ¶172, ¶180, ¶252
+  3×  [5w]  "the care of the self"
+        ¶112, ¶118, ¶232
+  3×  [5w]  "the darkness has not overcome"
+        ¶185, ¶192, ¶205
+  3×  [5w]  "the de-centering of the self"
+        ¶81, ¶98, ¶198
+  3×  [5w]  "the death of ivan ilyich"
+        ¶170, ¶180, ¶250
+  3×  [5w]  "the fairness is the authority"
+        ¶9, ¶186, ¶206
+  3×  [5w]  "the limits of one's knowledge"
+        ¶75, ¶81, ¶198
+  3×  [5w]  "the threshold of the ground"
+        ¶82, ¶169, ¶178
+  3×  [5w]  "the toronto wisdom task force"
+        ¶80, ¶85, ¶225
+  3×  [5w]  "where the material pushes back"
+        ¶16, ¶47, ¶64
+  3×  [5w]  "wisdom is grown not installed"
+        ¶19, ¶45, ¶110
+  3×  [4w]  "alasdair macintyre after virtue"
+        ¶147, ¶153, ¶245
+  3×  [4w]  "as the fruit of"
+        ¶39, ¶44, ¶84
+  3×  [4w]  "at the dimensions divergence"
+        ¶7, ¶191, ¶195
+  3×  [4w]  "at the social scale"
+        ¶20, ¶45, ¶77
+  3×  [4w]  "at the threshold of"
+        ¶82, ¶145, ¶169
+  3×  [4w]  "candidate for the writing"
+        ¶138, ¶154, ¶181
+  3×  [4w]  "convergence at the dimensions"
+        ¶191, ¶195, ¶209
+  3×  [4w]  "dive attention and love"
+        ¶1, ¶119, ¶138
+  3×  [4w]  "dive the practical canon"
+        ¶1, ¶118, ¶119
+  3×  [4w]  "et al psychological inquiry"
+        ¶80, ¶85, ¶225
+  3×  [4w]  "fear of the lord"
+        ¶48, ¶66, ¶215
+  3×  [4w]  "from the phaedo tradition"
+        ¶158, ¶167, ¶246
+  3×  [4w]  "general vs personal wisdom"
+        ¶85, ¶103, ¶220
+  3×  [4w]  "immortality projects causa sui"
+        ¶171, ¶180, ¶251
+  3×  [4w]  "implicit theories of wisdom"
+        ¶93, ¶103, ¶221
+  3×  [4w]  "in the governing note"
+        ¶0, ¶182, ¶196
+  3×  [4w]  "is candidate material for"
+        ¶67, ¶104, ¶168
+  3×  [4w]  "is the author's own"
+        ¶47, ¶53, ¶166
+  3×  [4w]  "its shape from the"
+        ¶16, ¶26, ¶195
+  3×  [4w]  "judith gl ck and"
+        ¶83, ¶85, ¶226
+  3×  [4w]  "modern hospice st christopher's"
+        ¶175, ¶180, ¶255
+  3×  [4w]  "movement out of the"
+        ¶98, ¶104, ¶119
+  3×  [4w]  "on its own terms"
+        ¶24, ¶48, ¶53
+  3×  [4w]  "out of the self"
+        ¶104, ¶119, ¶188
+  3×  [4w]  "philippa foot natural goodness"
+        ¶147, ¶153, ¶244
+  3×  [4w]  "priority of the definition"
+        ¶36, ¶44, ¶214
+  3×  [4w]  "reason more wisely about"
+        ¶76, ¶95, ¶223
+  3×  [4w]  "recorded as a finding"
+        ¶16, ¶47, ¶64
+  3×  [4w]  "staring at the sun"
+        ¶173, ¶180, ¶253
+  3×  [4w]  "taught as a subject"
+        ¶19, ¶38, ¶110
+  3×  [4w]  "the art of living"
+        ¶116, ¶131, ¶136
+  3×  [4w]  "the calculus of desire"
+        ¶126, ¶137, ¶236
+  3×  [4w]  "the christian ars moriendi"
+        ¶189, ¶193, ¶258
+  3×  [4w]  "the empirical turn is"
+        ¶42, ¶68, ¶82
+  3×  [4w]  "the goodness proper to"
+        ¶147, ¶153, ¶244
+  3×  [4w]  "the governing note and"
+        ¶0, ¶196, ¶211
+  3×  [4w]  "the honest facing of"
+        ¶164, ¶176, ¶198
+  3×  [4w]  "the idea of death"
+        ¶173, ¶180, ¶253
+  3×  [4w]  "the inside outside axis"
+        ¶86, ¶96, ¶194
+  3×  [4w]  "the mirror governing note"
+        ¶129, ¶137, ¶209
+  3×  [4w]  "the most rigorous secular"
+        ¶82, ¶145, ¶178
+  3×  [4w]  "the ordinary peaceful death"
+        ¶175, ¶180, ¶257
+  3×  [4w]  "the outside view of"
+        ¶95, ¶97, ¶151
+  3×  [4w]  "the social scale the"
+        ¶20, ¶45, ¶209
+  3×  [4w]  "the sovereignty of good"
+        ¶142, ¶153, ¶242
+  3×  [4w]  "the view from above"
+        ¶109, ¶118, ¶230
+  3×  [4w]  "the wisdom of god"
+        ¶52, ¶66, ¶216
+  3×  [4w]  "the witness does not"
+        ¶185, ¶204, ¶205
+  3×  [4w]  "the witness testifies to"
+        ¶181, ¶205, ¶210
+  3×  [4w]  "to a greater whole"
+        ¶99, ¶111, ¶203
+  3×  [4w]  "to be wise is"
+        ¶55, ¶57
+  3×  [4w]  "trad the ground is"
+        ¶53, ¶141, ¶161
+  3×  [4w]  "whether it can be"
+        ¶68, ¶105, ¶191
+  3×  [4w]  "wisdom is not a"
+        ¶48, ¶52, ¶105
+  3×  [4w]  "with no theological stake"
+        ¶68, ¶81, ¶199
+  3×  [4w]  "without naming the whole"
+        ¶99, ¶203, ¶228
+  2×  [12w]  "a good day look like quality over survival hospice as the humane"
+        ¶180, ¶254
+  2×  [12w]  "a person faces most of all at the end and that the"
+        ¶192, ¶205
+  2×  [12w]  "a teachable craft the five temptations and their consolations the deathbed as"
+        ¶167, ¶248
+  2×  [12w]  "a way of life forms of life vs forms of discourse spiritual"
+        ¶118, ¶230
+  2×  [12w]  "after virtue virtues internal to practices tradition and narrative unity the need"
+        ¶153, ¶245
+  2×  [12w]  "aging and death what does a good day look like quality over"
+        ¶180, ¶254
+  2×  [12w]  "alasdair macintyre after virtue virtues internal to practices tradition and narrative unity"
+        ¶153, ¶245
+  2×  [12w]  "and death what does a good day look like quality over survival"
+        ¶180, ¶254
+  2×  [12w]  "and love is the modern apex of the practice weil and murdoch"
+        ¶119, ¶138
+  2×  [12w]  "and time being-toward-death das man s evasion anticipatory resoluteness death as the"
+        ¶167, ¶249
+  2×  [12w]  "anscombe modern moral philosophy the launch of the virtue revival obligation-talk severed"
+        ¶153, ¶243
+  2×  [12w]  "any ground that the question of the ground is the realest question"
+        ¶192, ¶205
+  2×  [12w]  "archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru indigenous"
+        ¶44, ¶229
+  2×  [12w]  "ars moriendi tradition early- th-c manuals dying as a teachable craft the"
+        ¶167, ¶248
+  2×  [12w]  "as a teachable craft the five temptations and their consolations the deathbed"
+        ¶167, ¶248
+  2×  [12w]  "as a way of life forms of life vs forms of discourse"
+        ¶118, ¶230
+  2×  [12w]  "as expertise in life's fundamental pragmatics descriptive not prescriptive general vs personal"
+        ¶85, ¶220
+  2×  [12w]  "as hero-system the need for a transcendent referent and the confessed absence"
+        ¶180, ¶251
+  2×  [12w]  "as mainspring immortality projects causa sui society as hero-system the need for"
+        ¶180, ¶251
+  2×  [12w]  "as obliteration atul gawande being mortal the medicalization of aging and death"
+        ¶180, ¶253
+  2×  [12w]  "as receptive self-emptied looking attention as the substance of love of neighbor"
+        ¶153, ¶241
+  2×  [12w]  "as the substance of love of neighbor and continuous with prayer decreation"
+        ¶153, ¶241
+  2×  [12w]  "askesis ignatius of loyola the spiritual exercises discernment of spirits the examen"
+        ¶137, ¶238
+  2×  [12w]  "at the sun death as ultimate concern rippling the idea of death"
+        ¶180, ¶253
+  2×  [12w]  "attention and love is the modern apex of the practice weil and"
+        ¶119, ¶138
+  2×  [12w]  "attention as receptive self-emptied looking attention as the substance of love of"
+        ¶153, ¶241
+  2×  [12w]  "attention as the substance of love of neighbor and continuous with prayer"
+        ¶153, ¶241
+  2×  [12w]  "atul gawande being mortal the medicalization of aging and death what does"
+        ¶180, ¶254
+  2×  [12w]  "aurelius the three disciplines perception desire action amor fati meditations via hadot"
+        ¶137, ¶234
+  2×  [12w]  "balance theory of wisdom the common good and values teaching how not"
+        ¶85, ¶221
+  2×  [12w]  "baltes ursula staudinger the berlin wisdom paradigm wisdom as expertise in life's"
+        ¶85, ¶220
+  2×  [12w]  "becker the denial of death death-terror as mainspring immortality projects causa sui"
+        ¶180, ¶251
+  2×  [12w]  "becker's empirical descendant irvin yalom existential psychiatry staring at the sun death"
+        ¶180, ¶252
+  2×  [12w]  "becomes learn-to-live the ars moriendi tradition early- th-c manuals dying as a"
+        ¶167, ¶247
+  2×  [12w]  "being and time being-toward-death das man s evasion anticipatory resoluteness death as"
+        ¶167, ¶249
+  2×  [12w]  "being mortal the medicalization of aging and death what does a good"
+        ¶180, ¶254
+  2×  [12w]  "being-toward-death das man s evasion anticipatory resoluteness death as the whole-making limit"
+        ¶167, ¶249
+  2×  [12w]  "benedict of nursia ora et labora the daily office lectio divina stability"
+        ¶137, ¶238
+  2×  [12w]  "berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive not"
+        ¶85, ¶220
+  2×  [12w]  "case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily"
+        ¶137, ¶236
+  2×  [12w]  "causa sui society as hero-system the need for a transcendent referent and"
+        ¶180, ¶251
+  2×  [12w]  "cicely saunders modern hospice st christopher's total pain physical emotional social spiritual"
+        ¶180, ¶255
+  2×  [12w]  "cicero transmits the to philosophize is to learn to die formula from"
+        ¶167, ¶246
+  2×  [12w]  "ck and critics measurement validity lab vs life the limits of self-report"
+        ¶85, ¶226
+  2×  [12w]  "cognitive reflective affective wisdom as a property of persons not artifacts compassion"
+        ¶85, ¶222
+  2×  [12w]  "confucian tradition junzi li ren xue daily self-examination the great learning chain"
+        ¶137, ¶237
+  2×  [12w]  "convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily self-examination the"
+        ¶137, ¶236
+  2×  [12w]  "craft the five temptations and their consolations the deathbed as spiritual battle"
+        ¶167, ¶248
+  2×  [12w]  "cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru indigenous elder"
+        ¶44, ¶229
+  2×  [12w]  "de montaigne that to philosophize is to learn to die the early"
+        ¶167, ¶247
+  2×  [12w]  "death as obliteration atul gawande being mortal the medicalization of aging and"
+        ¶180, ¶253
+  2×  [12w]  "death death-terror as mainspring immortality projects causa sui society as hero-system the"
+        ¶180, ¶251
+  2×  [12w]  "death of ivan ilyich the false life unmasked by mortality the caius"
+        ¶180, ¶250
+  2×  [12w]  "death what does a good day look like quality over survival hospice"
+        ¶180, ¶254
+  2×  [12w]  "death-terror as mainspring immortality projects causa sui society as hero-system the need"
+        ¶180, ¶251
+  2×  [12w]  "decides for itself how heavily to read at the social scale the"
+        ¶20, ¶45
+  2×  [12w]  "denial of death death-terror as mainspring immortality projects causa sui society as"
+        ¶180, ¶251
+  2×  [12w]  "descendant irvin yalom existential psychiatry staring at the sun death as ultimate"
+        ¶180, ¶252
+  2×  [12w]  "diagnosis ernest becker the denial of death death-terror as mainspring immortality projects"
+        ¶180, ¶250
+  2×  [12w]  "die the early stoic memento mori the unmasking of death's ceremony the"
+        ¶167, ¶247
+  2×  [12w]  "dimension named elisabeth k bler-ross on death and dying broke the silence"
+        ¶180, ¶255
+  2×  [12w]  "disciplines perception desire action amor fati meditations via hadot the inner citadel"
+        ¶137, ¶234
+  2×  [12w]  "dive attention and love is the modern apex of the practice weil"
+        ¶119, ¶138
+  2×  [12w]  "dive decides for itself how heavily to read at the social scale"
+        ¶20, ¶45
+  2×  [12w]  "divergence-at-ground the confucian tradition junzi li ren xue daily self-examination the great"
+        ¶137, ¶236
+  2×  [12w]  "does a good day look like quality over survival hospice as the"
+        ¶180, ¶254
+  2×  [12w]  "doorway-side the spiritual dimension named elisabeth k bler-ross on death and dying"
+        ¶180, ¶255
+  2×  [12w]  "dying as a teachable craft the five temptations and their consolations the"
+        ¶167, ¶248
+  2×  [12w]  "e m anscombe modern moral philosophy the launch of the virtue revival"
+        ¶153, ¶243
+  2×  [12w]  "early stoic memento mori the unmasking of death's ceremony the later turn"
+        ¶167, ¶247
+  2×  [12w]  "early- th-c manuals dying as a teachable craft the five temptations and"
+        ¶167, ¶248
+  2×  [12w]  "elder archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru"
+        ¶44, ¶229
+  2×  [12w]  "elisabeth k bler-ross on death and dying broke the silence the five"
+        ¶180, ¶256
+  2×  [12w]  "empirical descendant irvin yalom existential psychiatry staring at the sun death as"
+        ¶180, ¶252
+  2×  [12w]  "epicurus ataraxia the tetrapharmakos the calculus of desire prudence as chief virtue"
+        ¶137, ¶236
+  2×  [12w]  "ernest becker the denial of death death-terror as mainspring immortality projects causa"
+        ¶180, ¶251
+  2×  [12w]  "everyone agrees you must face the end no one agrees on what"
+        ¶165, ¶201
+  2×  [12w]  "existential psychiatry staring at the sun death as ultimate concern rippling the"
+        ¶180, ¶253
+  2×  [12w]  "expertise in life's fundamental pragmatics descriptive not prescriptive general vs personal wisdom"
+        ¶85, ¶220
+  2×  [12w]  "foot natural goodness virtue as the goodness proper to the human as"
+        ¶153, ¶244
+  2×  [12w]  "for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily self-examination"
+        ¶137, ¶236
+  2×  [12w]  "forms of life vs forms of discourse spiritual exercises askesis prosoche the"
+        ¶118, ¶230
+  2×  [12w]  "fullest institutionalization of askesis ignatius of loyola the spiritual exercises discernment of"
+        ¶137, ¶238
+  2×  [12w]  "g e m anscombe modern moral philosophy the launch of the virtue"
+        ¶153, ¶243
+  2×  [12w]  "gawande being mortal the medicalization of aging and death what does a"
+        ¶180, ¶254
+  2×  [12w]  "gl ck and critics measurement validity lab vs life the limits of"
+        ¶85, ¶226
+  2×  [12w]  "god iris murdoch the sovereignty of good attention as a just and"
+        ¶153, ¶241
+  2×  [12w]  "good attention as a just and loving perception the ego as enemy"
+        ¶153, ¶242
+  2×  [12w]  "good day look like quality over survival hospice as the humane model"
+        ¶180, ¶254
+  2×  [12w]  "goodness virtue as the goodness proper to the human as a living"
+        ¶153, ¶244
+  2×  [12w]  "ground god iris murdoch the sovereignty of good attention as a just"
+        ¶153, ¶241
+  2×  [12w]  "ground is the realest question a person faces most of all at"
+        ¶192, ¶205
+  2×  [12w]  "ground secular death as obliteration atul gawande being mortal the medicalization of"
+        ¶180, ¶253
+  2×  [12w]  "ground secular humanizing the wall cicely saunders modern hospice st christopher's total"
+        ¶180, ¶254
+  2×  [12w]  "ground that the question of the ground is the realest question a"
+        ¶192, ¶205
+  2×  [12w]  "hadot philosophy as a way of life forms of life vs forms"
+        ¶118, ¶230
+  2×  [12w]  "heidegger being and time being-toward-death das man s evasion anticipatory resoluteness death"
+        ¶167, ¶249
+  2×  [12w]  "hero-system the need for a transcendent referent and the confessed absence of"
+        ¶180, ¶251
+  2×  [12w]  "humanizing the wall cicely saunders modern hospice st christopher's total pain physical"
+        ¶180, ¶254
+  2×  [12w]  "ilyich the false life unmasked by mortality the caius syllogism gerasim's honest"
+        ¶180, ¶250
+  2×  [12w]  "immortality projects causa sui society as hero-system the need for a transcendent"
+        ¶180, ¶251
+  2×  [12w]  "institutionalization of askesis ignatius of loyola the spiritual exercises discernment of spirits"
+        ¶137, ¶238
+  2×  [12w]  "internal shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals"
+        ¶167, ¶247
+  2×  [12w]  "internal to practices tradition and narrative unity the need for a telos"
+        ¶153, ¶245
+  2×  [12w]  "iris murdoch the sovereignty of good attention as a just and loving"
+        ¶153, ¶242
+  2×  [12w]  "irvin yalom existential psychiatry staring at the sun death as ultimate concern"
+        ¶180, ¶253
+  2×  [12w]  "is the modern apex of the practice weil and murdoch on attention"
+        ¶119, ¶138
+  2×  [12w]  "is the realest question a person faces most of all at the"
+        ¶192, ¶205
+  2×  [12w]  "is to learn to die formula from the phaedo tradition to the"
+        ¶167, ¶246
+  2×  [12w]  "is to learn to die the early stoic memento mori the unmasking"
+        ¶167, ¶247
+  2×  [12w]  "ivan ilyich the false life unmasked by mortality the caius syllogism gerasim's"
+        ¶180, ¶250
+  2×  [12w]  "judith gl ck and critics measurement validity lab vs life the limits"
+        ¶85, ¶226
+  2×  [12w]  "k bler-ross on death and dying broke the silence the five stages"
+        ¶180, ¶256
+  2×  [12w]  "kathryn mannix with the end in mind recovering the ordinary peaceful death"
+        ¶180, ¶257
+  2×  [12w]  "learn to die the early stoic memento mori the unmasking of death's"
+        ¶167, ¶247
+  2×  [12w]  "learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals dying as"
+        ¶167, ¶247
+  2×  [12w]  "learn-to-live the ars moriendi tradition early- th-c manuals dying as a teachable"
+        ¶167, ¶247
+  2×  [12w]  "leo tolstoy the death of ivan ilyich the false life unmasked by"
+        ¶180, ¶250
+  2×  [12w]  "life forms of life vs forms of discourse spiritual exercises askesis prosoche"
+        ¶118, ¶230
+  2×  [12w]  "life vs forms of discourse spiritual exercises askesis prosoche the view from"
+        ¶118, ¶230
+  2×  [12w]  "literary diagnosis ernest becker the denial of death death-terror as mainspring immortality"
+        ¶180, ¶250
+  2×  [12w]  "literature on what wisdom is and how to live and die well"
+        ¶0, ¶3
+  2×  [12w]  "logos as impersonal cosmic reason living kata physin the sage as asymptote"
+        ¶66, ¶217
+  2×  [12w]  "looking attention as the substance of love of neighbor and continuous with"
+        ¶153, ¶241
+  2×  [12w]  "love as the realization that the other is real the transcendent good"
+        ¶153, ¶242
+  2×  [12w]  "love is the modern apex of the practice weil and murdoch on"
+        ¶119, ¶138
+  2×  [12w]  "m anscombe modern moral philosophy the launch of the virtue revival obligation-talk"
+        ¶153, ¶243
+  2×  [12w]  "macintyre after virtue virtues internal to practices tradition and narrative unity the"
+        ¶153, ¶245
+  2×  [12w]  "mainspring immortality projects causa sui society as hero-system the need for a"
+        ¶180, ¶251
+  2×  [12w]  "mannix with the end in mind recovering the ordinary peaceful death dive"
+        ¶180, ¶257
+  2×  [12w]  "manuals dying as a teachable craft the five temptations and their consolations"
+        ¶167, ¶248
+  2×  [12w]  "marcus aurelius the three disciplines perception desire action amor fati meditations via"
+        ¶137, ¶234
+  2×  [12w]  "martin heidegger being and time being-toward-death das man s evasion anticipatory resoluteness"
+        ¶167, ¶249
+  2×  [12w]  "medicalization of aging and death what does a good day look like"
+        ¶180, ¶254
+  2×  [12w]  "memento mori the unmasking of death's ceremony the later turn from rehearsing"
+        ¶167, ¶247
+  2×  [12w]  "metacognition perspectival metacognition moral aspirations grossmann weststrate ardelt et al psychological inquiry"
+        ¶85, ¶225
+  2×  [12w]  "michel de montaigne that to philosophize is to learn to die the"
+        ¶167, ¶247
+  2×  [12w]  "modern apex of the practice weil and murdoch on attention as unselfing"
+        ¶119, ¶138
+  2×  [12w]  "modern moral philosophy the launch of the virtue revival obligation-talk severed from"
+        ¶153, ¶243
+  2×  [12w]  "montaigne that to philosophize is to learn to die the early stoic"
+        ¶167, ¶247
+  2×  [12w]  "moral philosophy the launch of the virtue revival obligation-talk severed from its"
+        ¶153, ¶243
+  2×  [12w]  "mori the unmasking of death's ceremony the later turn from rehearsing death"
+        ¶167, ¶247
+  2×  [12w]  "moriendi tradition early- th-c manuals dying as a teachable craft the five"
+        ¶167, ¶248
+  2×  [12w]  "mortal the medicalization of aging and death what does a good day"
+        ¶180, ¶254
+  2×  [12w]  "murdoch the sovereignty of good attention as a just and loving perception"
+        ¶153, ¶242
+  2×  [12w]  "named elisabeth k bler-ross on death and dying broke the silence the"
+        ¶180, ¶255
+  2×  [12w]  "natural goodness virtue as the goodness proper to the human as a"
+        ¶153, ¶244
+  2×  [12w]  "need for a transcendent referent and the confessed absence of an answer"
+        ¶180, ¶251
+  2×  [12w]  "neurobiological model cross-cultural convergence incl the bhagavad gita spirituality added in sd-wise-"
+        ¶85, ¶224
+  2×  [12w]  "nursia ora et labora the daily office lectio divina stability obedience humility"
+        ¶137, ¶238
+  2×  [12w]  "obliteration atul gawande being mortal the medicalization of aging and death what"
+        ¶180, ¶253
+  2×  [12w]  "of aging and death what does a good day look like quality"
+        ¶180, ¶254
+  2×  [12w]  "of askesis ignatius of loyola the spiritual exercises discernment of spirits the"
+        ¶137, ¶238
+  2×  [12w]  "of death death-terror as mainspring immortality projects causa sui society as hero-system"
+        ¶180, ¶251
+  2×  [12w]  "of death's ceremony the later turn from rehearsing death to living well"
+        ¶167, ¶247
+  2×  [12w]  "of good attention as a just and loving perception the ego as"
+        ¶153, ¶242
+  2×  [12w]  "of ivan ilyich the false life unmasked by mortality the caius syllogism"
+        ¶180, ¶250
+  2×  [12w]  "of life forms of life vs forms of discourse spiritual exercises askesis"
+        ¶118, ¶230
+  2×  [12w]  "of life vs forms of discourse spiritual exercises askesis prosoche the view"
+        ¶118, ¶230
+  2×  [12w]  "of nursia ora et labora the daily office lectio divina stability obedience"
+        ¶137, ¶238
+  2×  [12w]  "of the ground is the realest question a person faces most of"
+        ¶192, ¶205
+  2×  [12w]  "on any ground that the question of the ground is the realest"
+        ¶192, ¶205
+  2×  [12w]  "on what wisdom is and how to live and die well built"
+        ¶0, ¶3
+  2×  [12w]  "paradigm wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive general"
+        ¶85, ¶220
+  2×  [12w]  "paul baltes ursula staudinger the berlin wisdom paradigm wisdom as expertise in"
+        ¶85, ¶220
+  2×  [12w]  "philippa foot natural goodness virtue as the goodness proper to the human"
+        ¶153, ¶244
+  2×  [12w]  "philosophize is to learn to die formula from the phaedo tradition to"
+        ¶167, ¶246
+  2×  [12w]  "philosophize is to learn to die the early stoic memento mori the"
+        ¶167, ¶247
+  2×  [12w]  "philosophy as a way of life forms of life vs forms of"
+        ¶118, ¶230
+  2×  [12w]  "philosophy the launch of the virtue revival obligation-talk severed from its lawgiver"
+        ¶153, ¶243
+  2×  [12w]  "pierre hadot philosophy as a way of life forms of life vs"
+        ¶118, ¶230
+  2×  [12w]  "projects causa sui society as hero-system the need for a transcendent referent"
+        ¶180, ¶251
+  2×  [12w]  "proof case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue"
+        ¶137, ¶236
+  2×  [12w]  "psychiatry staring at the sun death as ultimate concern rippling the idea"
+        ¶180, ¶253
+  2×  [12w]  "question a person faces most of all at the end and that"
+        ¶192, ¶205
+  2×  [12w]  "question of the ground is the realest question a person faces most"
+        ¶192, ¶205
+  2×  [12w]  "realest question a person faces most of all at the end and"
+        ¶192, ¶205
+  2×  [12w]  "receptive self-emptied looking attention as the substance of love of neighbor and"
+        ¶153, ¶241
+  2×  [12w]  "scale cognitive reflective affective wisdom as a property of persons not artifacts"
+        ¶85, ¶222
+  2×  [12w]  "secular death as obliteration atul gawande being mortal the medicalization of aging"
+        ¶180, ¶253
+  2×  [12w]  "secular humanizing the wall cicely saunders modern hospice st christopher's total pain"
+        ¶180, ¶254
+  2×  [12w]  "self-emptied looking attention as the substance of love of neighbor and continuous"
+        ¶153, ¶241
+  2×  [12w]  "shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals dying"
+        ¶167, ¶247
+  2×  [12w]  "simone weil attention as receptive self-emptied looking attention as the substance of"
+        ¶153, ¶241
+  2×  [12w]  "society as hero-system the need for a transcendent referent and the confessed"
+        ¶180, ¶251
+  2×  [12w]  "sovereignty of good attention as a just and loving perception the ego"
+        ¶153, ¶242
+  2×  [12w]  "spiritual dimension named elisabeth k bler-ross on death and dying broke the"
+        ¶180, ¶255
+  2×  [12w]  "staring at the sun death as ultimate concern rippling the idea of"
+        ¶180, ¶253
+  2×  [12w]  "staudinger the berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics"
+        ¶85, ¶220
+  2×  [12w]  "stoic memento mori the unmasking of death's ceremony the later turn from"
+        ¶167, ¶247
+  2×  [12w]  "sui society as hero-system the need for a transcendent referent and the"
+        ¶180, ¶251
+  2×  [12w]  "sun death as ultimate concern rippling the idea of death as awakener"
+        ¶180, ¶253
+  2×  [12w]  "teachable craft the five temptations and their consolations the deathbed as spiritual"
+        ¶167, ¶248
+  2×  [12w]  "th-c manuals dying as a teachable craft the five temptations and their"
+        ¶167, ¶248
+  2×  [12w]  "that the question of the ground is the realest question a person"
+        ¶192, ¶205
+  2×  [12w]  "that to philosophize is to learn to die the early stoic memento"
+        ¶167, ¶247
+  2×  [12w]  "the ars moriendi tradition early- th-c manuals dying as a teachable craft"
+        ¶167, ¶248
+  2×  [12w]  "the berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive"
+        ¶85, ¶220
+  2×  [12w]  "the confucian tradition junzi li ren xue daily self-examination the great learning"
+        ¶137, ¶237
+  2×  [12w]  "the death of ivan ilyich the false life unmasked by mortality the"
+        ¶180, ¶250
+  2×  [12w]  "the denial of death death-terror as mainspring immortality projects causa sui society"
+        ¶180, ¶251
+  2×  [12w]  "the early stoic memento mori the unmasking of death's ceremony the later"
+        ¶167, ¶247
+  2×  [12w]  "the elder archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz"
+        ¶44, ¶229
+  2×  [12w]  "the false life unmasked by mortality the caius syllogism gerasim's honest compassion"
+        ¶180, ¶250
+  2×  [12w]  "the fullest institutionalization of askesis ignatius of loyola the spiritual exercises discernment"
+        ¶137, ¶238
+  2×  [12w]  "the ground is the realest question a person faces most of all"
+        ¶192, ¶205
+  2×  [12w]  "the internal shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c"
+        ¶167, ¶247
+  2×  [12w]  "the literary diagnosis ernest becker the denial of death death-terror as mainspring"
+        ¶180, ¶250
+  2×  [12w]  "the literature on what wisdom is and how to live and die"
+        ¶0, ¶3
+  2×  [12w]  "the medicalization of aging and death what does a good day look"
+        ¶180, ¶254
+  2×  [12w]  "the modern apex of the practice weil and murdoch on attention as"
+        ¶119, ¶138
+  2×  [12w]  "the modern murdoch terror management theory pyszczynski solomon greenberg from mortality-salience experiments"
+        ¶180, ¶251
+  2×  [12w]  "the need for a transcendent referent and the confessed absence of an"
+        ¶180, ¶251
+  2×  [12w]  "the proof case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren"
+        ¶137, ¶236
+  2×  [12w]  "the question of the ground is the realest question a person faces"
+        ¶192, ¶205
+  2×  [12w]  "the realest question a person faces most of all at the end"
+        ¶192, ¶205
+  2×  [12w]  "the sovereignty of good attention as a just and loving perception the"
+        ¶153, ¶242
+  2×  [12w]  "the spiritual dimension named elisabeth k bler-ross on death and dying broke"
+        ¶180, ¶255
+  2×  [12w]  "the sun death as ultimate concern rippling the idea of death as"
+        ¶180, ¶253
+  2×  [12w]  "the three disciplines perception desire action amor fati meditations via hadot the"
+        ¶137, ¶234
+  2×  [12w]  "the to philosophize is to learn to die formula from the phaedo"
+        ¶167, ¶246
+  2×  [12w]  "the traditions converge at the level of dimensions and diverge at the"
+        ¶17, ¶32
+  2×  [12w]  "the unmasking of death's ceremony the later turn from rehearsing death to"
+        ¶167, ¶247
+  2×  [12w]  "the wall cicely saunders modern hospice st christopher's total pain physical emotional"
+        ¶180, ¶254
+  2×  [12w]  "theory of wisdom the common good and values teaching how not what"
+        ¶85, ¶221
+  2×  [12w]  "three disciplines perception desire action amor fati meditations via hadot the inner"
+        ¶137, ¶234
+  2×  [12w]  "three-dimensional wisdom scale cognitive reflective affective wisdom as a property of persons"
+        ¶85, ¶222
+  2×  [12w]  "time being-toward-death das man s evasion anticipatory resoluteness death as the whole-making"
+        ¶167, ¶249
+  2×  [12w]  "to die the early stoic memento mori the unmasking of death's ceremony"
+        ¶167, ¶247
+  2×  [12w]  "to learn to die formula from the phaedo tradition to the renaissance"
+        ¶167, ¶246
+  2×  [12w]  "to learn to die the early stoic memento mori the unmasking of"
+        ¶167, ¶247
+  2×  [12w]  "to philosophize is to learn to die formula from the phaedo tradition"
+        ¶167, ¶246
+  2×  [12w]  "to philosophize is to learn to die the early stoic memento mori"
+        ¶167, ¶247
+  2×  [12w]  "tolstoy the death of ivan ilyich the false life unmasked by mortality"
+        ¶180, ¶250
+  2×  [12w]  "tradition early- th-c manuals dying as a teachable craft the five temptations"
+        ¶167, ¶248
+  2×  [12w]  "traditions converge at the level of dimensions and diverge at the ground"
+        ¶17, ¶32
+  2×  [12w]  "transmits the to philosophize is to learn to die formula from the"
+        ¶167, ¶246
+  2×  [12w]  "unmasking of death's ceremony the later turn from rehearsing death to living"
+        ¶167, ¶247
+  2×  [12w]  "unselfing love as the realization that the other is real the transcendent"
+        ¶153, ¶242
+  2×  [12w]  "ursula staudinger the berlin wisdom paradigm wisdom as expertise in life's fundamental"
+        ¶85, ¶220
+  2×  [12w]  "virtue as the goodness proper to the human as a living kind"
+        ¶153, ¶244
+  2×  [12w]  "virtue virtues internal to practices tradition and narrative unity the need for"
+        ¶153, ¶245
+  2×  [12w]  "virtues internal to practices tradition and narrative unity the need for a"
+        ¶153, ¶245
+  2×  [12w]  "vs forms of discourse spiritual exercises askesis prosoche the view from above"
+        ¶118, ¶230
+  2×  [12w]  "wall cicely saunders modern hospice st christopher's total pain physical emotional social"
+        ¶180, ¶254
+  2×  [12w]  "way of life forms of life vs forms of discourse spiritual exercises"
+        ¶118, ¶230
+  2×  [12w]  "weil attention as receptive self-emptied looking attention as the substance of love"
+        ¶153, ¶241
+  2×  [12w]  "what does a good day look like quality over survival hospice as"
+        ¶180, ¶254
+  2×  [12w]  "wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive general vs"
+        ¶85, ¶220
+  2×  [12w]  "wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive"
+        ¶85, ¶220
+  2×  [12w]  "wisdom scale cognitive reflective affective wisdom as a property of persons not"
+        ¶85, ¶222
+  2×  [12w]  "yalom existential psychiatry staring at the sun death as ultimate concern rippling"
+        ¶180, ¶253
+  2×  [12w]  "zaqen presbyteros the matured junzi abba amma staretz guru indigenous elder wisdom"
+        ¶44, ¶229
+  2×  [11w]  "epictetus the dichotomy of control freedom through right desire enchiridion discourses"
+        ¶137, ¶233
+  2×  [11w]  "fragility of goodness emotions as evaluative literature as training in attention"
+        ¶153, ¶240
+  2×  [11w]  "ground no transcendent ground laozi zhuangzi the unnameable tao wu wei"
+        ¶66, ¶218
+  2×  [11w]  "nic weststrate michel ferrari monika ardelt wisdom-exemplar prototypes practical philosophical benevolent"
+        ¶103, ¶227
+  2×  [11w]  "the apex of the examination tradition light bridge to authorial discernment"
+        ¶137, ¶239
+  2×  [10w]  "a covenantal and incarnate god impersonal cosmic reason the void"
+        ¶18, ¶200
+  2×  [10w]  "convergence on the movement out of the self divergence on"
+        ¶104, ¶119
+  2×  [10w]  "ground christian judgment and resurrection death as doorway onto judgment"
+        ¶167, ¶248
+  2×  [10w]  "know thyself wisdom as awareness of one's own ignorance the"
+        ¶103, ¶214
+  2×  [10w]  "life the evening examination premeditation of adversity letters as formation"
+        ¶137, ¶235
+  2×  [9w]  "dive michael levenson carolyn aldwin wisdom as self-transcendence the"
+        ¶103, ¶227
+  2×  [9w]  "fragile precisely here the genuinely wise tend to be"
+        ¶83, ¶90
+  2×  [9w]  "is not taught as a subject it is formed"
+        ¶19, ¶38
+  2×  [9w]  "john the evangelist paul the logos personalized and incarnate"
+        ¶66, ¶216
+  2×  [9w]  "lever virtue as moderator grossmann kross huynh et al"
+        ¶85, ¶223
+  2×  [9w]  "the claim that death is not the last word"
+        ¶182, ¶191
+  2×  [9w]  "the toronto wisdom task force common wisdom model morally-grounded"
+        ¶85, ¶225
+  2×  [8w]  "arnold davidson editor and principal interpreter of hadot"
+        ¶118, ¶231
+  2×  [8w]  "convergence at the dimensions divergence at the ground"
+        ¶191, ¶195
+  2×  [8w]  "hadot's foil convergence on practice divergence on destination"
+        ¶118, ¶232
+  2×  [8w]  "priority of the definition teachability of virtue recollection"
+        ¶44, ¶214
+  2×  [8w]  "the empirical turn is the modern attempt to"
+        ¶42, ¶68
+  2×  [8w]  "the explicit dual-scale of the mirror governing note"
+        ¶129, ¶137
+  2×  [8w]  "to a greater whole without naming the whole"
+        ¶99, ¶203
+  2×  [8w]  "with no theological stake across four decades and"
+        ¶81, ¶199
+  2×  [7w]  "a transcendent good that is not god"
+        ¶150, ¶200
+  2×  [7w]  "at the highest stakes the subject contains"
+        ¶191, ¶201
+  2×  [7w]  "carries the explicit dual-scale of the mirror"
+        ¶137, ¶237
+  2×  [7w]  "ground a good that is not god"
+        ¶153, ¶242
+  2×  [7w]  "how it appears inside and out live"
+        ¶105, ¶191
+  2×  [7w]  "humility about the limits of one's knowledge"
+        ¶81, ¶198
+  2×  [7w]  "is candidate material for the cross-cutting finding"
+        ¶104, ¶168
+  2×  [7w]  "is the only posture from which a"
+        ¶166, ¶190
+  2×  [7w]  "michel foucault the care of the self"
+        ¶118, ¶232
+  2×  [7w]  "no answer to put in their place"
+        ¶178, ¶203
+  2×  [7w]  "no transcendent reference alasdair macintyre after virtue"
+        ¶147, ¶153
+  2×  [7w]  "of the self the aesthetics of existence"
+        ¶118, ¶232
+  2×  [7w]  "personal wisdom insight into one's own life"
+        ¶71, ¶95
+  2×  [7w]  "reads at both scales of the mirror"
+        ¶86, ¶101
+  2×  [7w]  "that genuine heroism requires a transcendent referent"
+        ¶178, ¶203
+  2×  [7w]  "that modern hero-systems no longer convince and"
+        ¶178, ¶203
+  2×  [7w]  "the aporetic close and divine dispensation the"
+        ¶44, ¶214
+  2×  [7w]  "the completion of the christian ars moriendi"
+        ¶193, ¶258
+  2×  [7w]  "the concrete question of whether anything survives"
+        ¶165, ¶201
+  2×  [7w]  "the ineffable way nothing transcendent at all"
+        ¶18, ¶200
+  2×  [7w]  "the light the darkness has not overcome"
+        ¶192, ¶205
+  2×  [7w]  "the praj aparamita tradition praj a nyat"
+        ¶66, ¶218
+  2×  [7w]  "the trained capacity to deliberate well about"
+        ¶33, ¶46
+  2×  [7w]  "you know it when you see it"
+        ¶83, ¶93
+  2×  [6w]  "a reader who has watched the"
+        ¶186, ¶206
+  2×  [6w]  "and its refusal to blame are"
+        ¶152, ¶154
+  2×  [6w]  "as the fruit of a life"
+        ¶39, ¶44
+  2×  [6w]  "at the threshold of the ground"
+        ¶82, ¶169
+  2×  [6w]  "be re-confirmed against primary sources before"
+        ¶86, ¶181
+  2×  [6w]  "buddhist liberation from rebirth hindu moksha"
+        ¶193, ¶259
+  2×  [6w]  "cases stay in their home texts"
+        ¶20, ¶45
+  2×  [6w]  "christ as the wisdom of god"
+        ¶66, ¶216
+  2×  [6w]  "dependent origination wisdom yoked to compassion"
+        ¶66, ¶218
+  2×  [6w]  "dive the traditions and their grounds"
+        ¶1, ¶26
+  2×  [6w]  "envision asked what wisdom is what"
+        ¶105, ¶191
+  2×  [6w]  "fear of the lord as beginning"
+        ¶66, ¶215
+  2×  [6w]  "good that is not god the"
+        ¶200, ¶242
+  2×  [6w]  "ground nothing beyond death as wall"
+        ¶167, ¶249
+  2×  [6w]  "igor grossmann wise reasoning solomon's paradox"
+        ¶85, ¶223
+  2×  [6w]  "martha nussbaum the therapy of desire"
+        ¶118, ¶240
+  2×  [6w]  "measure folds in increasing spirituality and"
+        ¶99, ¶203
+  2×  [6w]  "pursuing wisdom with no theological stake"
+        ¶68, ¶199
+  2×  [6w]  "pushback is recorded as a finding"
+        ¶16, ¶47
+  2×  [6w]  "rehearsal of death melet thanatou the"
+        ¶156, ¶167
+  2×  [6w]  "synth envision asked what wisdom is"
+        ¶105, ¶155
+  2×  [6w]  "that something other than oneself is"
+        ¶144, ¶152
+  2×  [6w]  "the de-centering of the self the"
+        ¶81, ¶198
+  2×  [6w]  "the death-chapter of the formation thesis"
+        ¶177, ¶181
+  2×  [6w]  "the light shines in the darkness"
+        ¶14, ¶185
+  2×  [5w]  "and wrote the convergence down"
+        ¶81, ¶199
+  2×  [5w]  "belonging to a greater whole"
+        ¶111, ¶203
+  2×  [5w]  "candidate for the writing synth"
+        ¶138, ¶154
+  2×  [5w]  "diagnose the loss as ours"
+        ¶12, ¶102
+  2×  [5w]  "dive is where the witness"
+        ¶179, ¶191
+  2×  [5w]  "dive the definitional fault line"
+        ¶1, ¶26
+  2×  [5w]  "dive the practical canon dive"
+        ¶1, ¶118
+  2×  [5w]  "divergence is at the ground"
+        ¶7, ¶63
+  2×  [5w]  "each movement envision live die"
+        ¶20, ¶209
+  2×  [5w]  "earns its shape from the"
+        ¶26, ¶195
+  2×  [5w]  "feeds back to dive and"
+        ¶86, ¶154
+  2×  [5w]  "gather broadly spend carefully the"
+        ¶0, ¶3
+  2×  [5w]  "general wisdom insight into life"
+        ¶71, ¶95
+  2×  [5w]  "ground at full strength and"
+        ¶7, ¶46
+  2×  [5w]  "in the governing note and"
+        ¶0, ¶196
+  2×  [5w]  "instance feeding the cross-cutting finding"
+        ¶119, ¶138
+  2×  [5w]  "is the author's own ground"
+        ¶53, ¶166
+  2×  [5w]  "is the convergence divergence structure"
+        ¶94, ¶165
+  2×  [5w]  "is to learn to live"
+        ¶159, ¶189
+  2×  [5w]  "is where the witness testifies"
+        ¶168, ¶181
+  2×  [5w]  "its shape from the material"
+        ¶16, ¶26
+  2×  [5w]  "light bridge to the author's"
+        ¶118, ¶181
+  2×  [5w]  "not the last word is"
+        ¶168, ¶183
+  2×  [5w]  "not the last word the"
+        ¶1, ¶205
+  2×  [5w]  "of desire attention to others"
+        ¶18, ¶198
+  2×  [5w]  "on its own terms the"
+        ¶48, ¶53
+  2×  [5w]  "on the shortness of life"
+        ¶123, ¶137
+  2×  [5w]  "on what the end is"
+        ¶155, ¶201
+  2×  [5w]  "people reason more wisely about"
+        ¶76, ¶95
+  2×  [5w]  "politics phronesis is already social"
+        ¶44, ¶213
+  2×  [5w]  "reason and john's incarnate person"
+        ¶18, ¶201
+  2×  [5w]  "self-knowledge is the hardest wisdom"
+        ¶77, ¶151
+  2×  [5w]  "that matters most to this"
+        ¶68, ¶112
+  2×  [5w]  "the acceptance of limit and"
+        ¶18, ¶198
+  2×  [5w]  "the convergence and the divergence"
+        ¶150, ¶203
+  2×  [5w]  "the discipline holds governing note"
+        ¶166, ¶179
+  2×  [5w]  "the divergence at the ground"
+        ¶22, ¶209
+  2×  [5w]  "the dual-scale axis plato socrates"
+        ¶44, ¶213
+  2×  [5w]  "the enemy of moral vision"
+        ¶143, ¶149
+  2×  [5w]  "the fear of the lord"
+        ¶48, ¶215
+  2×  [5w]  "the governing note and the"
+        ¶196, ¶211
+  2×  [5w]  "the immortal soul the forms"
+        ¶157, ¶214
+  2×  [5w]  "the jewel-case of convergence divergence"
+        ¶153, ¶242
+  2×  [5w]  "the outside view of oneself"
+        ¶97, ¶151
+  2×  [5w]  "the personal and the social"
+        ¶129, ¶209
+  2×  [5w]  "the phronimos as ethical standard"
+        ¶44, ¶213
+  2×  [5w]  "the priority of the definition"
+        ¶36, ¶44
+  2×  [5w]  "the resurrection and the life"
+        ¶184, ¶193
+  2×  [5w]  "the san diego wisdom scale"
+        ¶78, ¶224
+  2×  [5w]  "the witness's ground comparative doorways"
+        ¶193, ¶258
+  2×  [5w]  "this dive is where the"
+        ¶139, ¶182
+  2×  [5w]  "to be wise is to"
+        ¶55, ¶57
+  2×  [5w]  "wall held in good faith"
+        ¶206, ¶249
+  2×  [5w]  "were not trying to agree"
+        ¶81, ¶199
+  2×  [5w]  "when the master is assembled"
+        ¶86, ¶104
+  2×  [5w]  "whether it can be measured"
+        ¶105, ¶191
+  2×  [5w]  "without naming the whole the"
+        ¶99, ¶228
+  2×  [4w]  "a ground it cannot"
+        ¶82, ¶204
+  2×  [4w]  "about how to live"
+        ¶46, ¶107
+  2×  [4w]  "and it is offered"
+        ¶185, ¶192
+  2×  [4w]  "and it is precisely"
+        ¶163, ¶177
+  2×  [4w]  "and it is where"
+        ¶10, ¶42
+  2×  [4w]  "and one governing principle"
+        ¶0, ¶3
+  2×  [4w]  "and the common good"
+        ¶72, ¶80
+  2×  [4w]  "and the two verbs"
+        ¶176, ¶210
+  2×  [4w]  "and the voice palette"
+        ¶29, ¶30
+  2×  [4w]  "answers the question becker"
+        ¶179, ¶181
+  2×  [4w]  "as a body of"
+        ¶71, ¶106
+  2×  [4w]  "at the center of"
+        ¶145, ¶203
+  2×  [4w]  "at the ground dive"
+        ¶32, ¶191
+  2×  [4w]  "at the ground the"
+        ¶7, ¶187
+  2×  [4w]  "at their full height"
+        ¶166, ¶190
+  2×  [4w]  "because we see wrongly"
+        ¶143, ¶152
+  2×  [4w]  "belonging to a whole"
+        ¶113, ¶203
+  2×  [4w]  "beneath the shared dimensions"
+        ¶63, ¶200
+  2×  [4w]  "built v dive the"
+        ¶26
+  2×  [4w]  "but the one who"
+        ¶34, ¶188
+  2×  [4w]  "consolidated thinker source catalogue"
+        ¶1, ¶212
+  2×  [4w]  "convergence is at the"
+        ¶7, ¶62
+  2×  [4w]  "death faced in hope"
+        ¶193, ¶258
+  2×  [4w]  "death is a doorway"
+        ¶157, ¶161
+  2×  [4w]  "dilip jeste michael thomas"
+        ¶85, ¶224
+  2×  [4w]  "dive takes up the"
+        ¶42, ¶155
+  2×  [4w]  "dive the cross-cutting finding"
+        ¶194
+  2×  [4w]  "dive the modern reckoning"
+        ¶1, ¶168
+  2×  [4w]  "does not lean on"
+        ¶7, ¶204
+  2×  [4w]  "earn its shape from"
+        ¶16, ¶194
+  2×  [4w]  "flag prominently at assembly"
+        ¶154, ¶168
+  2×  [4w]  "from inside and out"
+        ¶87, ¶104
+  2×  [4w]  "getting outside the self"
+        ¶99, ¶111
+  2×  [4w]  "ground the immortal soul"
+        ¶167, ¶214
+  2×  [4w]  "has reason to weigh"
+        ¶186, ¶206
+  2×  [4w]  "impersonal rational principle that"
+        ¶55, ¶61
+  2×  [4w]  "in print that he"
+        ¶178, ¶203
+  2×  [4w]  "in the first person"
+        ¶49, ¶184
+  2×  [4w]  "is the conceptual spine"
+        ¶19, ¶45
+  2×  [4w]  "is the cure and"
+        ¶169, ¶176
+  2×  [4w]  "is the discipline that"
+        ¶35, ¶186
+  2×  [4w]  "is the disease the"
+        ¶169, ¶176
+  2×  [4w]  "is what the book"
+        ¶136, ¶209
+  2×  [4w]  "it cannot be taught"
+        ¶38, ¶110
+  2×  [4w]  "it does so openly"
+        ¶182, ¶205
+  2×  [4w]  "it is the discipline"
+        ¶122, ¶186
+  2×  [4w]  "it is where the"
+        ¶42, ¶181
+  2×  [4w]  "it shows what the"
+        ¶187, ¶190
+  2×  [4w]  "its own subject the"
+        ¶59, ¶117
+  2×  [4w]  "morally-grounded application of metacognition"
+        ¶80, ¶85
+  2×  [4w]  "nicomachean ethics vi the"
+        ¶44, ¶213
+  2×  [4w]  "of learning to die"
+        ¶160, ¶169
+  2×  [4w]  "of the ars moriendi"
+        ¶164, ¶168
+  2×  [4w]  "of the ego the"
+        ¶97, ¶98
+  2×  [4w]  "of the inside outside"
+        ¶86, ¶148
+  2×  [4w]  "of the live movement"
+        ¶118, ¶148
+  2×  [4w]  "of the mirror a"
+        ¶77, ¶101
+  2×  [4w]  "of the whole compendium"
+        ¶145, ¶208
+  2×  [4w]  "on formed character ethics"
+        ¶44, ¶213
+  2×  [4w]  "once more now in"
+        ¶94, ¶120
+  2×  [4w]  "precedent tmm's two-part structure"
+        ¶20, ¶45
+  2×  [4w]  "problems than their own"
+        ¶76, ¶95
+  2×  [4w]  "reaches the dimensions and"
+        ¶82, ¶202
+  2×  [4w]  "recover the facing the"
+        ¶176, ¶178
+  2×  [4w]  "resolves the meno paradox"
+        ¶19, ¶40
+  2×  [4w]  "same shape different foundation"
+        ¶18, ¶197
+  2×  [4w]  "see one's own life"
+        ¶97, ¶148
+  2×  [4w]  "self-distancing as the lever"
+        ¶103, ¶223
+  2×  [4w]  "sort what you control"
+        ¶124, ¶134
+  2×  [4w]  "synth and here is"
+        ¶82, ¶145
+  2×  [4w]  "synth learning to die"
+        ¶159, ¶189
+  2×  [4w]  "synth the witness implication"
+        ¶117, ¶152
+  2×  [4w]  "synth the witness note"
+        ¶166, ¶179
+  2×  [4w]  "that the ground is"
+        ¶150, ¶204
+  2×  [4w]  "the balancing of interests"
+        ¶72, ¶80
+  2×  [4w]  "the common wisdom model"
+        ¶83, ¶203
+  2×  [4w]  "the convergence-at-dimensions divergence-at-ground structure"
+        ¶64, ¶194
+  2×  [4w]  "the cross-cutting finding convergence"
+        ¶119, ¶195
+  2×  [4w]  "the dimensions and the"
+        ¶206, ¶209
+  2×  [4w]  "the dimensions the traditions"
+        ¶81, ¶192
+  2×  [4w]  "the dissolution of the"
+        ¶58, ¶97
+  2×  [4w]  "the elder is recognized"
+        ¶40, ¶92
+  2×  [4w]  "the examination of conscience"
+        ¶109, ¶114
+  2×  [4w]  "the facing of death"
+        ¶187, ¶189
+  2×  [4w]  "the fragility of goodness"
+        ¶147, ¶240
+  2×  [4w]  "the governing note apparatus"
+        ¶1, ¶2
+  2×  [4w]  "the ground here is"
+        ¶157, ¶163
+  2×  [4w]  "the ground is not"
+        ¶48, ¶165
+  2×  [4w]  "the ground the witness"
+        ¶7, ¶210
+  2×  [4w]  "the hebrew sages proverbs"
+        ¶66, ¶215
+  2×  [4w]  "the hinge of the"
+        ¶54, ¶118
+  2×  [4w]  "the individual society mirror"
+        ¶20, ¶25
+  2×  [4w]  "the inside of wisdom"
+        ¶88, ¶91
+  2×  [4w]  "the inside outside gap"
+        ¶103, ¶148
+  2×  [4w]  "the last defeated enemy"
+        ¶193, ¶216
+  2×  [4w]  "the light unovercome john"
+        ¶193, ¶216
+  2×  [4w]  "the movement's central finding"
+        ¶164, ¶189
+  2×  [4w]  "the one who exceeds"
+        ¶51, ¶58
+  2×  [4w]  "the practiced form of"
+        ¶104, ¶119
+  2×  [4w]  "the premeditation of adversity"
+        ¶109, ¶123
+  2×  [4w]  "the refusal to let"
+        ¶22, ¶62
+  2×  [4w]  "the self is the"
+        ¶96, ¶99
+  2×  [4w]  "the shape of the"
+        ¶28, ¶204
+  2×  [4w]  "the shared lay prototype"
+        ¶103, ¶221
+  2×  [4w]  "the sophia phronesis distinction"
+        ¶44, ¶213
+  2×  [4w]  "the stoic epicurean pairing"
+        ¶134, ¶199
+  2×  [4w]  "the two verbs of"
+        ¶164, ¶210
+  2×  [4w]  "the whole survey every"
+        ¶98, ¶210
+  2×  [4w]  "this all along the"
+        ¶73, ¶156
+  2×  [4w]  "this dive is the"
+        ¶120, ¶177
+  2×  [4w]  "this is the author's"
+        ¶15, ¶53
+  2×  [4w]  "to find the true"
+        ¶114, ¶132
+  2×  [4w]  "to living well the"
+        ¶155, ¶167
+  2×  [4w]  "to recover the lost"
+        ¶107, ¶175
+  2×  [4w]  "unified p framework sternberg"
+        ¶85, ¶221
+  2×  [4w]  "view from above the"
+        ¶98, ¶118
+  2×  [4w]  "what it rests on"
+        ¶94, ¶105
+  2×  [4w]  "what wisdom is but"
+        ¶70, ¶105
+  2×  [4w]  "when at last it"
+        ¶186, ¶206
+  2×  [4w]  "which wisdom it is"
+        ¶31, ¶35
+  2×  [4w]  "wisdom is practiced through"
+        ¶120, ¶136
+  2×  [4w]  "worth a confirming note"
+        ¶86, ¶138
+  2×  [4w]  "written as a declared"
+        ¶5, ¶82
+  2×  [4w]  "younger and older adults"
+        ¶76, ¶84
+
+TOP CONTENT WORDS (stopwords removed) — first 25
+----------------------------------------------------------------
+    182  wisdom
+    170  dive
+    138  ground
+    107  death
+     94  synth
+     85  life
+     61  witness
+     47  attention
+     46  empirical
+     46  text
+     45  live
+     45  convergence
+     42  note
+     40  wise
+     40  tradition
+     39  die
+     38  governing
+     38  book
+     38  good
+     37  god
+     37  self
+     36  inside
+     36  divergence
+     34  toward
+     33  outside
+
+TRACKED TERMS (§III.2 frequency / spacing / density)
+----------------------------------------------------------------
+  "wisdom": 93× | min gap 1 ¶ | ~1 per 2.8 ¶
+  "witness": 41× | min gap 1 ¶ | ~1 per 6.4 ¶
+  "virtue": 22× | min gap 1 ¶ | ~1 per 11.9 ¶
+  "light": 18× | min gap 1 ¶ | ~1 per 14.5 ¶
+  "ground": 94× | min gap 1 ¶ | ~1 per 2.8 ¶
+  "death": 56× | min gap 1 ¶ | ~1 per 4.7 ¶
+
