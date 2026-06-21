@@ -1,0 +1,68 @@
+---
+layout: layouts/base.njk
+title: ""
+eleventyNavigation:
+  key: Home
+---
+
+{% set flagship = books.titles["the-mirrored-mind"] %}
+
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ site.heroHeadline }}</h1>
+    <p class="lede">{{ site.heroSupport }}</p>
+    <div class="cta-row">
+      <a class="btn" href="{{ site.primaryCta.href }}">{{ site.primaryCta.label }}</a>
+      <a class="btn ghost" href="/books/the-mirrored-mind/">Begin with The Mirrored Mind</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">The flagship</p>
+    <div class="book flagship" style="max-width:40rem">
+      <h3>{{ flagship.title }}</h3>
+      {% if flagship.subtitle %}<p class="sub">{{ flagship.subtitle }}</p>{% endif %}
+      <p class="hook">{{ flagship.hook }}</p>
+      <span class="status">Forthcoming</span>
+      <p style="margin-top:1rem"><a href="/books/the-mirrored-mind/">About the book &rarr;</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">The work</p>
+    <h2>{{ books.trilogy.title }}</h2>
+    <p class="order-rail">
+      <strong>Read in this order:</strong>
+      The Center That Cannot Be Empty &rarr; What the Mirror Cannot See &rarr; The Mirrored Mind.
+      <br>
+      <strong>Published in reverse:</strong>
+      The Mirrored Mind first, then What the Mirror Cannot See, then The Center That Cannot Be Empty.
+    </p>
+
+    <ul class="book-grid">
+      {% for slug in books.trilogy.readingOrder %}
+      {% set b = books.titles[slug] %}
+      <li class="book{% if b.flagship %} flagship{% endif %}">
+        <h3>{{ b.title }}</h3>
+        {% if b.subtitle %}<p class="sub">{{ b.subtitle }}</p>{% endif %}
+        {% if b.hook %}<p class="hook">{{ b.hook }}</p>{% endif %}
+        <span class="status">Forthcoming</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <p style="margin-top:2rem"><a href="/books/">See all books — the trilogy, the Blueprint, the standalones, and the novel &rarr;</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">From the desk</p>
+    <h2>Essays</h2>
+    <p>Shorter pieces, and the thinking beneath the books. <a href="/essays/">Read the essays &rarr;</a></p>
+  </div>
+</section>
