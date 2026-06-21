@@ -1,0 +1,6152 @@
+{
+  "file": "works/the-wise-life/The_Wise_Life_Compendium_COMPLETE.md",
+  "paragraphs": 261,
+  "words": 19224,
+  "repeated_phrases": [
+    {
+      "phrase": "at the level of",
+      "length": 4,
+      "count": 10,
+      "paragraphs": [
+        17,
+        32,
+        40,
+        53,
+        62,
+        81,
+        120,
+        197
+      ]
+    },
+    {
+      "phrase": "not the last word",
+      "length": 4,
+      "count": 10,
+      "paragraphs": [
+        1,
+        26,
+        166,
+        168,
+        181,
+        182,
+        183,
+        185,
+        191,
+        205
+      ]
+    },
+    {
+      "phrase": "a way of life",
+      "length": 4,
+      "count": 9,
+      "paragraphs": [
+        1,
+        26,
+        104,
+        105,
+        106,
+        118,
+        191,
+        230
+      ]
+    },
+    {
+      "phrase": "as a way of",
+      "length": 4,
+      "count": 9,
+      "paragraphs": [
+        1,
+        26,
+        104,
+        106,
+        118,
+        191,
+        230
+      ]
+    },
+    {
+      "phrase": "as a way of life",
+      "length": 5,
+      "count": 8,
+      "paragraphs": [
+        1,
+        26,
+        104,
+        106,
+        118,
+        191,
+        230
+      ]
+    },
+    {
+      "phrase": "philosophy as a way of life",
+      "length": 6,
+      "count": 7,
+      "paragraphs": [
+        1,
+        26,
+        104,
+        106,
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "is to learn to",
+      "length": 4,
+      "count": 7,
+      "paragraphs": [
+        158,
+        159,
+        167,
+        189,
+        246,
+        247
+      ]
+    },
+    {
+      "phrase": "synth this is the",
+      "length": 4,
+      "count": 7,
+      "paragraphs": [
+        50,
+        58,
+        61,
+        93,
+        110,
+        121,
+        129
+      ]
+    },
+    {
+      "phrase": "to learn to die",
+      "length": 4,
+      "count": 7,
+      "paragraphs": [
+        158,
+        159,
+        167,
+        189,
+        246,
+        247
+      ]
+    },
+    {
+      "phrase": "and it is the",
+      "length": 4,
+      "count": 6,
+      "paragraphs": [
+        40,
+        87,
+        108,
+        186,
+        190,
+        199
+      ]
+    },
+    {
+      "phrase": "that death is not",
+      "length": 4,
+      "count": 6,
+      "paragraphs": [
+        157,
+        182,
+        183,
+        185,
+        191,
+        205
+      ]
+    },
+    {
+      "phrase": "the convergence divergence structure",
+      "length": 4,
+      "count": 6,
+      "paragraphs": [
+        67,
+        82,
+        94,
+        99,
+        113,
+        165
+      ]
+    },
+    {
+      "phrase": "to philosophize is to learn to die",
+      "length": 7,
+      "count": 5,
+      "paragraphs": [
+        158,
+        167,
+        246,
+        247
+      ]
+    },
+    {
+      "phrase": "death as not the last word",
+      "length": 6,
+      "count": 5,
+      "paragraphs": [
+        1,
+        26,
+        166,
+        168,
+        181
+      ]
+    },
+    {
+      "phrase": "death is not the last word",
+      "length": 6,
+      "count": 5,
+      "paragraphs": [
+        182,
+        183,
+        185,
+        191,
+        205
+      ]
+    },
+    {
+      "phrase": "at the level of dimensions",
+      "length": 5,
+      "count": 5,
+      "paragraphs": [
+        17,
+        32,
+        62,
+        81,
+        197
+      ]
+    },
+    {
+      "phrase": "for the cross-cutting finding",
+      "length": 4,
+      "count": 5,
+      "paragraphs": [
+        86,
+        104,
+        154,
+        168,
+        181
+      ]
+    },
+    {
+      "phrase": "learning to die is",
+      "length": 4,
+      "count": 5,
+      "paragraphs": [
+        160,
+        164,
+        168,
+        189,
+        210
+      ]
+    },
+    {
+      "phrase": "of the self the",
+      "length": 4,
+      "count": 5,
+      "paragraphs": [
+        81,
+        98,
+        118,
+        198,
+        232
+      ]
+    },
+    {
+      "phrase": "the ground is the",
+      "length": 4,
+      "count": 5,
+      "paragraphs": [
+        22,
+        59,
+        161,
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "dive death as not the last word",
+      "length": 7,
+      "count": 4,
+      "paragraphs": [
+        1,
+        166,
+        168,
+        181
+      ]
+    },
+    {
+      "phrase": "learning to die is learning to live",
+      "length": 7,
+      "count": 4,
+      "paragraphs": [
+        164,
+        168,
+        189,
+        210
+      ]
+    },
+    {
+      "phrase": "that death is not the last word",
+      "length": 7,
+      "count": 4,
+      "paragraphs": [
+        182,
+        185,
+        191,
+        205
+      ]
+    },
+    {
+      "phrase": "at the highest stakes the",
+      "length": 5,
+      "count": 4,
+      "paragraphs": [
+        165,
+        191,
+        201,
+        209
+      ]
+    },
+    {
+      "phrase": "good that is not god",
+      "length": 5,
+      "count": 4,
+      "paragraphs": [
+        150,
+        153,
+        200,
+        242
+      ]
+    },
+    {
+      "phrase": "at full strength and",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        7,
+        46,
+        179,
+        182
+      ]
+    },
+    {
+      "phrase": "attend to the present",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        124,
+        127,
+        131,
+        134
+      ]
+    },
+    {
+      "phrase": "dive inside vs outside",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        1,
+        26,
+        40,
+        77
+      ]
+    },
+    {
+      "phrase": "dive is where the",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        139,
+        179,
+        182,
+        191
+      ]
+    },
+    {
+      "phrase": "dive the empirical turn",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        1,
+        26,
+        42,
+        67
+      ]
+    },
+    {
+      "phrase": "divergence at the ground",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        22,
+        191,
+        195,
+        209
+      ]
+    },
+    {
+      "phrase": "held in good faith",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        186,
+        193,
+        206,
+        249
+      ]
+    },
+    {
+      "phrase": "is where the witness",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        168,
+        179,
+        181,
+        191
+      ]
+    },
+    {
+      "phrase": "the cross-cutting finding the",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        86,
+        138,
+        154,
+        181
+      ]
+    },
+    {
+      "phrase": "the denial of death",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        171,
+        172,
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "the divergence at the",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        22,
+        135,
+        201,
+        209
+      ]
+    },
+    {
+      "phrase": "the need for a",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        153,
+        180,
+        245,
+        251
+      ]
+    },
+    {
+      "phrase": "weil and murdoch on",
+      "length": 4,
+      "count": 4,
+      "paragraphs": [
+        104,
+        119,
+        138,
+        147
+      ]
+    },
+    {
+      "phrase": "how a wise life is tested and completed",
+      "length": 8,
+      "count": 3,
+      "paragraphs": [
+        26,
+        155,
+        191
+      ]
+    },
+    {
+      "phrase": "that to philosophize is to learn to die",
+      "length": 8,
+      "count": 3,
+      "paragraphs": [
+        158,
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "at the level of dimensions and diverge",
+      "length": 7,
+      "count": 3,
+      "paragraphs": [
+        17,
+        32,
+        197
+      ]
+    },
+    {
+      "phrase": "kathryn mannix with the end in mind",
+      "length": 7,
+      "count": 3,
+      "paragraphs": [
+        175,
+        180,
+        257
+      ]
+    },
+    {
+      "phrase": "weil and murdoch on attention as unselfing",
+      "length": 7,
+      "count": 3,
+      "paragraphs": [
+        104,
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "what does a good day look like",
+      "length": 7,
+      "count": 3,
+      "paragraphs": [
+        174,
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "agrees you must face the end",
+      "length": 6,
+      "count": 3,
+      "paragraphs": [
+        155,
+        165,
+        201
+      ]
+    },
+    {
+      "phrase": "on death and dying broke the",
+      "length": 6,
+      "count": 3,
+      "paragraphs": [
+        175,
+        180,
+        256
+      ]
+    },
+    {
+      "phrase": "the apex of the examination tradition",
+      "length": 6,
+      "count": 3,
+      "paragraphs": [
+        133,
+        137,
+        239
+      ]
+    },
+    {
+      "phrase": "the explicit dual-scale of the mirror",
+      "length": 6,
+      "count": 3,
+      "paragraphs": [
+        129,
+        137,
+        237
+      ]
+    },
+    {
+      "phrase": "envision asked what wisdom is",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        105,
+        155,
+        191
+      ]
+    },
+    {
+      "phrase": "for the cross-cutting finding the",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        86,
+        154,
+        181
+      ]
+    },
+    {
+      "phrase": "material for the cross-cutting finding",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        86,
+        104,
+        168
+      ]
+    },
+    {
+      "phrase": "substance of love of neighbor",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        141,
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "terror management theory pyszczynski solomon",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        172,
+        180,
+        252
+      ]
+    },
+    {
+      "phrase": "the care of the self",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        112,
+        118,
+        232
+      ]
+    },
+    {
+      "phrase": "the darkness has not overcome",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        185,
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "the de-centering of the self",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        81,
+        98,
+        198
+      ]
+    },
+    {
+      "phrase": "the death of ivan ilyich",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        170,
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "the fairness is the authority",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        9,
+        186,
+        206
+      ]
+    },
+    {
+      "phrase": "the limits of one's knowledge",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        75,
+        81,
+        198
+      ]
+    },
+    {
+      "phrase": "the threshold of the ground",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        82,
+        169,
+        178
+      ]
+    },
+    {
+      "phrase": "the toronto wisdom task force",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        80,
+        85,
+        225
+      ]
+    },
+    {
+      "phrase": "where the material pushes back",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        16,
+        47,
+        64
+      ]
+    },
+    {
+      "phrase": "wisdom is grown not installed",
+      "length": 5,
+      "count": 3,
+      "paragraphs": [
+        19,
+        45,
+        110
+      ]
+    },
+    {
+      "phrase": "alasdair macintyre after virtue",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        147,
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "as the fruit of",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        39,
+        44,
+        84
+      ]
+    },
+    {
+      "phrase": "at the dimensions divergence",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        7,
+        191,
+        195
+      ]
+    },
+    {
+      "phrase": "at the social scale",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        20,
+        45,
+        77
+      ]
+    },
+    {
+      "phrase": "at the threshold of",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        82,
+        145,
+        169
+      ]
+    },
+    {
+      "phrase": "candidate for the writing",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        138,
+        154,
+        181
+      ]
+    },
+    {
+      "phrase": "convergence at the dimensions",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        191,
+        195,
+        209
+      ]
+    },
+    {
+      "phrase": "dive attention and love",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        1,
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "dive the practical canon",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        1,
+        118,
+        119
+      ]
+    },
+    {
+      "phrase": "et al psychological inquiry",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        80,
+        85,
+        225
+      ]
+    },
+    {
+      "phrase": "fear of the lord",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        48,
+        66,
+        215
+      ]
+    },
+    {
+      "phrase": "from the phaedo tradition",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        158,
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "general vs personal wisdom",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        85,
+        103,
+        220
+      ]
+    },
+    {
+      "phrase": "immortality projects causa sui",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        171,
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "implicit theories of wisdom",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        93,
+        103,
+        221
+      ]
+    },
+    {
+      "phrase": "in the governing note",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        0,
+        182,
+        196
+      ]
+    },
+    {
+      "phrase": "is candidate material for",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        67,
+        104,
+        168
+      ]
+    },
+    {
+      "phrase": "is the author's own",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        47,
+        53,
+        166
+      ]
+    },
+    {
+      "phrase": "its shape from the",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        16,
+        26,
+        195
+      ]
+    },
+    {
+      "phrase": "judith gl ck and",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        83,
+        85,
+        226
+      ]
+    },
+    {
+      "phrase": "modern hospice st christopher's",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        175,
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "movement out of the",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        98,
+        104,
+        119
+      ]
+    },
+    {
+      "phrase": "on its own terms",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        24,
+        48,
+        53
+      ]
+    },
+    {
+      "phrase": "out of the self",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        104,
+        119,
+        188
+      ]
+    },
+    {
+      "phrase": "philippa foot natural goodness",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        147,
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "priority of the definition",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        36,
+        44,
+        214
+      ]
+    },
+    {
+      "phrase": "reason more wisely about",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        76,
+        95,
+        223
+      ]
+    },
+    {
+      "phrase": "recorded as a finding",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        16,
+        47,
+        64
+      ]
+    },
+    {
+      "phrase": "staring at the sun",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        173,
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "taught as a subject",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        19,
+        38,
+        110
+      ]
+    },
+    {
+      "phrase": "the art of living",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        116,
+        131,
+        136
+      ]
+    },
+    {
+      "phrase": "the calculus of desire",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        126,
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "the christian ars moriendi",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        189,
+        193,
+        258
+      ]
+    },
+    {
+      "phrase": "the empirical turn is",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        42,
+        68,
+        82
+      ]
+    },
+    {
+      "phrase": "the goodness proper to",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        147,
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "the governing note and",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        0,
+        196,
+        211
+      ]
+    },
+    {
+      "phrase": "the honest facing of",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        164,
+        176,
+        198
+      ]
+    },
+    {
+      "phrase": "the idea of death",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        173,
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "the inside outside axis",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        86,
+        96,
+        194
+      ]
+    },
+    {
+      "phrase": "the mirror governing note",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        129,
+        137,
+        209
+      ]
+    },
+    {
+      "phrase": "the most rigorous secular",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        82,
+        145,
+        178
+      ]
+    },
+    {
+      "phrase": "the ordinary peaceful death",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        175,
+        180,
+        257
+      ]
+    },
+    {
+      "phrase": "the outside view of",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        95,
+        97,
+        151
+      ]
+    },
+    {
+      "phrase": "the social scale the",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        20,
+        45,
+        209
+      ]
+    },
+    {
+      "phrase": "the sovereignty of good",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        142,
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "the view from above",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        109,
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "the wisdom of god",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        52,
+        66,
+        216
+      ]
+    },
+    {
+      "phrase": "the witness does not",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        185,
+        204,
+        205
+      ]
+    },
+    {
+      "phrase": "the witness testifies to",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        181,
+        205,
+        210
+      ]
+    },
+    {
+      "phrase": "to a greater whole",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        99,
+        111,
+        203
+      ]
+    },
+    {
+      "phrase": "to be wise is",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        55,
+        57
+      ]
+    },
+    {
+      "phrase": "trad the ground is",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        53,
+        141,
+        161
+      ]
+    },
+    {
+      "phrase": "whether it can be",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        68,
+        105,
+        191
+      ]
+    },
+    {
+      "phrase": "wisdom is not a",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        48,
+        52,
+        105
+      ]
+    },
+    {
+      "phrase": "with no theological stake",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        68,
+        81,
+        199
+      ]
+    },
+    {
+      "phrase": "without naming the whole",
+      "length": 4,
+      "count": 3,
+      "paragraphs": [
+        99,
+        203,
+        228
+      ]
+    },
+    {
+      "phrase": "a good day look like quality over survival hospice as the humane",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "a person faces most of all at the end and that the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "a teachable craft the five temptations and their consolations the deathbed as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "a way of life forms of life vs forms of discourse spiritual",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "after virtue virtues internal to practices tradition and narrative unity the need",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "aging and death what does a good day look like quality over",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "alasdair macintyre after virtue virtues internal to practices tradition and narrative unity",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "and death what does a good day look like quality over survival",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "and love is the modern apex of the practice weil and murdoch",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "and time being-toward-death das man s evasion anticipatory resoluteness death as the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "anscombe modern moral philosophy the launch of the virtue revival obligation-talk severed",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "any ground that the question of the ground is the realest question",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru indigenous",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        44,
+        229
+      ]
+    },
+    {
+      "phrase": "ars moriendi tradition early- th-c manuals dying as a teachable craft the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "as a teachable craft the five temptations and their consolations the deathbed",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "as a way of life forms of life vs forms of discourse",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "as expertise in life's fundamental pragmatics descriptive not prescriptive general vs personal",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "as hero-system the need for a transcendent referent and the confessed absence",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "as mainspring immortality projects causa sui society as hero-system the need for",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "as obliteration atul gawande being mortal the medicalization of aging and death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "as receptive self-emptied looking attention as the substance of love of neighbor",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "as the substance of love of neighbor and continuous with prayer decreation",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "askesis ignatius of loyola the spiritual exercises discernment of spirits the examen",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "at the sun death as ultimate concern rippling the idea of death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "attention and love is the modern apex of the practice weil and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "attention as receptive self-emptied looking attention as the substance of love of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "attention as the substance of love of neighbor and continuous with prayer",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "atul gawande being mortal the medicalization of aging and death what does",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "aurelius the three disciplines perception desire action amor fati meditations via hadot",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        234
+      ]
+    },
+    {
+      "phrase": "balance theory of wisdom the common good and values teaching how not",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        221
+      ]
+    },
+    {
+      "phrase": "baltes ursula staudinger the berlin wisdom paradigm wisdom as expertise in life's",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "becker the denial of death death-terror as mainspring immortality projects causa sui",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "becker's empirical descendant irvin yalom existential psychiatry staring at the sun death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        252
+      ]
+    },
+    {
+      "phrase": "becomes learn-to-live the ars moriendi tradition early- th-c manuals dying as a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "being and time being-toward-death das man s evasion anticipatory resoluteness death as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "being mortal the medicalization of aging and death what does a good",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "being-toward-death das man s evasion anticipatory resoluteness death as the whole-making limit",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "benedict of nursia ora et labora the daily office lectio divina stability",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive not",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "causa sui society as hero-system the need for a transcendent referent and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "cicely saunders modern hospice st christopher's total pain physical emotional social spiritual",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "cicero transmits the to philosophize is to learn to die formula from",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "ck and critics measurement validity lab vs life the limits of self-report",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        226
+      ]
+    },
+    {
+      "phrase": "cognitive reflective affective wisdom as a property of persons not artifacts compassion",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        222
+      ]
+    },
+    {
+      "phrase": "confucian tradition junzi li ren xue daily self-examination the great learning chain",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        237
+      ]
+    },
+    {
+      "phrase": "convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily self-examination the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "craft the five temptations and their consolations the deathbed as spiritual battle",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru indigenous elder",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        44,
+        229
+      ]
+    },
+    {
+      "phrase": "de montaigne that to philosophize is to learn to die the early",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "death as obliteration atul gawande being mortal the medicalization of aging and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "death death-terror as mainspring immortality projects causa sui society as hero-system the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "death of ivan ilyich the false life unmasked by mortality the caius",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "death what does a good day look like quality over survival hospice",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "death-terror as mainspring immortality projects causa sui society as hero-system the need",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "decides for itself how heavily to read at the social scale the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        20,
+        45
+      ]
+    },
+    {
+      "phrase": "denial of death death-terror as mainspring immortality projects causa sui society as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "descendant irvin yalom existential psychiatry staring at the sun death as ultimate",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        252
+      ]
+    },
+    {
+      "phrase": "diagnosis ernest becker the denial of death death-terror as mainspring immortality projects",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "die the early stoic memento mori the unmasking of death's ceremony the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "dimension named elisabeth k bler-ross on death and dying broke the silence",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "disciplines perception desire action amor fati meditations via hadot the inner citadel",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        234
+      ]
+    },
+    {
+      "phrase": "dive attention and love is the modern apex of the practice weil",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "dive decides for itself how heavily to read at the social scale",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        20,
+        45
+      ]
+    },
+    {
+      "phrase": "divergence-at-ground the confucian tradition junzi li ren xue daily self-examination the great",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "does a good day look like quality over survival hospice as the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "doorway-side the spiritual dimension named elisabeth k bler-ross on death and dying",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "dying as a teachable craft the five temptations and their consolations the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "e m anscombe modern moral philosophy the launch of the virtue revival",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "early stoic memento mori the unmasking of death's ceremony the later turn",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "early- th-c manuals dying as a teachable craft the five temptations and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "elder archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz guru",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        44,
+        229
+      ]
+    },
+    {
+      "phrase": "elisabeth k bler-ross on death and dying broke the silence the five",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        256
+      ]
+    },
+    {
+      "phrase": "empirical descendant irvin yalom existential psychiatry staring at the sun death as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        252
+      ]
+    },
+    {
+      "phrase": "epicurus ataraxia the tetrapharmakos the calculus of desire prudence as chief virtue",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "ernest becker the denial of death death-terror as mainspring immortality projects causa",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "everyone agrees you must face the end no one agrees on what",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        165,
+        201
+      ]
+    },
+    {
+      "phrase": "existential psychiatry staring at the sun death as ultimate concern rippling the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "expertise in life's fundamental pragmatics descriptive not prescriptive general vs personal wisdom",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "foot natural goodness virtue as the goodness proper to the human as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue daily self-examination",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "forms of life vs forms of discourse spiritual exercises askesis prosoche the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "fullest institutionalization of askesis ignatius of loyola the spiritual exercises discernment of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "g e m anscombe modern moral philosophy the launch of the virtue",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "gawande being mortal the medicalization of aging and death what does a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "gl ck and critics measurement validity lab vs life the limits of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        226
+      ]
+    },
+    {
+      "phrase": "god iris murdoch the sovereignty of good attention as a just and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "good attention as a just and loving perception the ego as enemy",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "good day look like quality over survival hospice as the humane model",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "goodness virtue as the goodness proper to the human as a living",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "ground god iris murdoch the sovereignty of good attention as a just",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "ground is the realest question a person faces most of all at",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "ground secular death as obliteration atul gawande being mortal the medicalization of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "ground secular humanizing the wall cicely saunders modern hospice st christopher's total",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "ground that the question of the ground is the realest question a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "hadot philosophy as a way of life forms of life vs forms",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "heidegger being and time being-toward-death das man s evasion anticipatory resoluteness death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "hero-system the need for a transcendent referent and the confessed absence of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "humanizing the wall cicely saunders modern hospice st christopher's total pain physical",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "ilyich the false life unmasked by mortality the caius syllogism gerasim's honest",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "immortality projects causa sui society as hero-system the need for a transcendent",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "institutionalization of askesis ignatius of loyola the spiritual exercises discernment of spirits",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "internal shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "internal to practices tradition and narrative unity the need for a telos",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "iris murdoch the sovereignty of good attention as a just and loving",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "irvin yalom existential psychiatry staring at the sun death as ultimate concern",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "is the modern apex of the practice weil and murdoch on attention",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "is the realest question a person faces most of all at the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "is to learn to die formula from the phaedo tradition to the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "is to learn to die the early stoic memento mori the unmasking",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "ivan ilyich the false life unmasked by mortality the caius syllogism gerasim's",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "judith gl ck and critics measurement validity lab vs life the limits",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        226
+      ]
+    },
+    {
+      "phrase": "k bler-ross on death and dying broke the silence the five stages",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        256
+      ]
+    },
+    {
+      "phrase": "kathryn mannix with the end in mind recovering the ordinary peaceful death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        257
+      ]
+    },
+    {
+      "phrase": "learn to die the early stoic memento mori the unmasking of death's",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals dying as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "learn-to-live the ars moriendi tradition early- th-c manuals dying as a teachable",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "leo tolstoy the death of ivan ilyich the false life unmasked by",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "life forms of life vs forms of discourse spiritual exercises askesis prosoche",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "life vs forms of discourse spiritual exercises askesis prosoche the view from",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "literary diagnosis ernest becker the denial of death death-terror as mainspring immortality",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "literature on what wisdom is and how to live and die well",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        0,
+        3
+      ]
+    },
+    {
+      "phrase": "logos as impersonal cosmic reason living kata physin the sage as asymptote",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        66,
+        217
+      ]
+    },
+    {
+      "phrase": "looking attention as the substance of love of neighbor and continuous with",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "love as the realization that the other is real the transcendent good",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "love is the modern apex of the practice weil and murdoch on",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "m anscombe modern moral philosophy the launch of the virtue revival obligation-talk",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "macintyre after virtue virtues internal to practices tradition and narrative unity the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "mainspring immortality projects causa sui society as hero-system the need for a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "mannix with the end in mind recovering the ordinary peaceful death dive",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        257
+      ]
+    },
+    {
+      "phrase": "manuals dying as a teachable craft the five temptations and their consolations",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "marcus aurelius the three disciplines perception desire action amor fati meditations via",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        234
+      ]
+    },
+    {
+      "phrase": "martin heidegger being and time being-toward-death das man s evasion anticipatory resoluteness",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "medicalization of aging and death what does a good day look like",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "memento mori the unmasking of death's ceremony the later turn from rehearsing",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "metacognition perspectival metacognition moral aspirations grossmann weststrate ardelt et al psychological inquiry",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        225
+      ]
+    },
+    {
+      "phrase": "michel de montaigne that to philosophize is to learn to die the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "modern apex of the practice weil and murdoch on attention as unselfing",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "modern moral philosophy the launch of the virtue revival obligation-talk severed from",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "montaigne that to philosophize is to learn to die the early stoic",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "moral philosophy the launch of the virtue revival obligation-talk severed from its",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "mori the unmasking of death's ceremony the later turn from rehearsing death",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "moriendi tradition early- th-c manuals dying as a teachable craft the five",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "mortal the medicalization of aging and death what does a good day",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "murdoch the sovereignty of good attention as a just and loving perception",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "named elisabeth k bler-ross on death and dying broke the silence the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "natural goodness virtue as the goodness proper to the human as a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "need for a transcendent referent and the confessed absence of an answer",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "neurobiological model cross-cultural convergence incl the bhagavad gita spirituality added in sd-wise-",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        224
+      ]
+    },
+    {
+      "phrase": "nursia ora et labora the daily office lectio divina stability obedience humility",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "obliteration atul gawande being mortal the medicalization of aging and death what",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "of aging and death what does a good day look like quality",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "of askesis ignatius of loyola the spiritual exercises discernment of spirits the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "of death death-terror as mainspring immortality projects causa sui society as hero-system",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "of death's ceremony the later turn from rehearsing death to living well",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "of good attention as a just and loving perception the ego as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "of ivan ilyich the false life unmasked by mortality the caius syllogism",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "of life forms of life vs forms of discourse spiritual exercises askesis",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "of life vs forms of discourse spiritual exercises askesis prosoche the view",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "of nursia ora et labora the daily office lectio divina stability obedience",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "of the ground is the realest question a person faces most of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "on any ground that the question of the ground is the realest",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "on what wisdom is and how to live and die well built",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        0,
+        3
+      ]
+    },
+    {
+      "phrase": "paradigm wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive general",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "paul baltes ursula staudinger the berlin wisdom paradigm wisdom as expertise in",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "philippa foot natural goodness virtue as the goodness proper to the human",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "philosophize is to learn to die formula from the phaedo tradition to",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "philosophize is to learn to die the early stoic memento mori the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "philosophy as a way of life forms of life vs forms of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "philosophy the launch of the virtue revival obligation-talk severed from its lawgiver",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        243
+      ]
+    },
+    {
+      "phrase": "pierre hadot philosophy as a way of life forms of life vs",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "projects causa sui society as hero-system the need for a transcendent referent",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "proof case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren xue",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "psychiatry staring at the sun death as ultimate concern rippling the idea",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "question a person faces most of all at the end and that",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "question of the ground is the realest question a person faces most",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "realest question a person faces most of all at the end and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "receptive self-emptied looking attention as the substance of love of neighbor and",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "scale cognitive reflective affective wisdom as a property of persons not artifacts",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        222
+      ]
+    },
+    {
+      "phrase": "secular death as obliteration atul gawande being mortal the medicalization of aging",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "secular humanizing the wall cicely saunders modern hospice st christopher's total pain",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "self-emptied looking attention as the substance of love of neighbor and continuous",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c manuals dying",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "simone weil attention as receptive self-emptied looking attention as the substance of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "society as hero-system the need for a transcendent referent and the confessed",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "sovereignty of good attention as a just and loving perception the ego",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "spiritual dimension named elisabeth k bler-ross on death and dying broke the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "staring at the sun death as ultimate concern rippling the idea of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "staudinger the berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "stoic memento mori the unmasking of death's ceremony the later turn from",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "sui society as hero-system the need for a transcendent referent and the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "sun death as ultimate concern rippling the idea of death as awakener",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "teachable craft the five temptations and their consolations the deathbed as spiritual",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "th-c manuals dying as a teachable craft the five temptations and their",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "that the question of the ground is the realest question a person",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "that to philosophize is to learn to die the early stoic memento",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "the ars moriendi tradition early- th-c manuals dying as a teachable craft",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "the berlin wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "the confucian tradition junzi li ren xue daily self-examination the great learning",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        237
+      ]
+    },
+    {
+      "phrase": "the death of ivan ilyich the false life unmasked by mortality the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "the denial of death death-terror as mainspring immortality projects causa sui society",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "the early stoic memento mori the unmasking of death's ceremony the later",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "the elder archetype cross-tradition zaqen presbyteros the matured junzi abba amma staretz",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        44,
+        229
+      ]
+    },
+    {
+      "phrase": "the false life unmasked by mortality the caius syllogism gerasim's honest compassion",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "the fullest institutionalization of askesis ignatius of loyola the spiritual exercises discernment",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        238
+      ]
+    },
+    {
+      "phrase": "the ground is the realest question a person faces most of all",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "the internal shift learn-to-die becomes learn-to-live the ars moriendi tradition early- th-c",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "the literary diagnosis ernest becker the denial of death death-terror as mainspring",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "the literature on what wisdom is and how to live and die",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        0,
+        3
+      ]
+    },
+    {
+      "phrase": "the medicalization of aging and death what does a good day look",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "the modern apex of the practice weil and murdoch on attention as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "the modern murdoch terror management theory pyszczynski solomon greenberg from mortality-salience experiments",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "the need for a transcendent referent and the confessed absence of an",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        251
+      ]
+    },
+    {
+      "phrase": "the proof case for convergence-at-practice divergence-at-ground the confucian tradition junzi li ren",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        236
+      ]
+    },
+    {
+      "phrase": "the question of the ground is the realest question a person faces",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "the realest question a person faces most of all at the end",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "the sovereignty of good attention as a just and loving perception the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "the spiritual dimension named elisabeth k bler-ross on death and dying broke",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        255
+      ]
+    },
+    {
+      "phrase": "the sun death as ultimate concern rippling the idea of death as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "the three disciplines perception desire action amor fati meditations via hadot the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        234
+      ]
+    },
+    {
+      "phrase": "the to philosophize is to learn to die formula from the phaedo",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "the traditions converge at the level of dimensions and diverge at the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        17,
+        32
+      ]
+    },
+    {
+      "phrase": "the unmasking of death's ceremony the later turn from rehearsing death to",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "the wall cicely saunders modern hospice st christopher's total pain physical emotional",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "theory of wisdom the common good and values teaching how not what",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        221
+      ]
+    },
+    {
+      "phrase": "three disciplines perception desire action amor fati meditations via hadot the inner",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        137,
+        234
+      ]
+    },
+    {
+      "phrase": "three-dimensional wisdom scale cognitive reflective affective wisdom as a property of persons",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        222
+      ]
+    },
+    {
+      "phrase": "time being-toward-death das man s evasion anticipatory resoluteness death as the whole-making",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "to die the early stoic memento mori the unmasking of death's ceremony",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "to learn to die formula from the phaedo tradition to the renaissance",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "to learn to die the early stoic memento mori the unmasking of",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "to philosophize is to learn to die formula from the phaedo tradition",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "to philosophize is to learn to die the early stoic memento mori",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "tolstoy the death of ivan ilyich the false life unmasked by mortality",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        250
+      ]
+    },
+    {
+      "phrase": "tradition early- th-c manuals dying as a teachable craft the five temptations",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "traditions converge at the level of dimensions and diverge at the ground",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        17,
+        32
+      ]
+    },
+    {
+      "phrase": "transmits the to philosophize is to learn to die formula from the",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        246
+      ]
+    },
+    {
+      "phrase": "unmasking of death's ceremony the later turn from rehearsing death to living",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        167,
+        247
+      ]
+    },
+    {
+      "phrase": "unselfing love as the realization that the other is real the transcendent",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "ursula staudinger the berlin wisdom paradigm wisdom as expertise in life's fundamental",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "virtue as the goodness proper to the human as a living kind",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        244
+      ]
+    },
+    {
+      "phrase": "virtue virtues internal to practices tradition and narrative unity the need for",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "virtues internal to practices tradition and narrative unity the need for a",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        245
+      ]
+    },
+    {
+      "phrase": "vs forms of discourse spiritual exercises askesis prosoche the view from above",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "wall cicely saunders modern hospice st christopher's total pain physical emotional social",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "way of life forms of life vs forms of discourse spiritual exercises",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        118,
+        230
+      ]
+    },
+    {
+      "phrase": "weil attention as receptive self-emptied looking attention as the substance of love",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        153,
+        241
+      ]
+    },
+    {
+      "phrase": "what does a good day look like quality over survival hospice as",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        254
+      ]
+    },
+    {
+      "phrase": "wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive general vs",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "wisdom paradigm wisdom as expertise in life's fundamental pragmatics descriptive not prescriptive",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        220
+      ]
+    },
+    {
+      "phrase": "wisdom scale cognitive reflective affective wisdom as a property of persons not",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        85,
+        222
+      ]
+    },
+    {
+      "phrase": "yalom existential psychiatry staring at the sun death as ultimate concern rippling",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        180,
+        253
+      ]
+    },
+    {
+      "phrase": "zaqen presbyteros the matured junzi abba amma staretz guru indigenous elder wisdom",
+      "length": 12,
+      "count": 2,
+      "paragraphs": [
+        44,
+        229
+      ]
+    },
+    {
+      "phrase": "epictetus the dichotomy of control freedom through right desire enchiridion discourses",
+      "length": 11,
+      "count": 2,
+      "paragraphs": [
+        137,
+        233
+      ]
+    },
+    {
+      "phrase": "fragility of goodness emotions as evaluative literature as training in attention",
+      "length": 11,
+      "count": 2,
+      "paragraphs": [
+        153,
+        240
+      ]
+    },
+    {
+      "phrase": "ground no transcendent ground laozi zhuangzi the unnameable tao wu wei",
+      "length": 11,
+      "count": 2,
+      "paragraphs": [
+        66,
+        218
+      ]
+    },
+    {
+      "phrase": "nic weststrate michel ferrari monika ardelt wisdom-exemplar prototypes practical philosophical benevolent",
+      "length": 11,
+      "count": 2,
+      "paragraphs": [
+        103,
+        227
+      ]
+    },
+    {
+      "phrase": "the apex of the examination tradition light bridge to authorial discernment",
+      "length": 11,
+      "count": 2,
+      "paragraphs": [
+        137,
+        239
+      ]
+    },
+    {
+      "phrase": "a covenantal and incarnate god impersonal cosmic reason the void",
+      "length": 10,
+      "count": 2,
+      "paragraphs": [
+        18,
+        200
+      ]
+    },
+    {
+      "phrase": "convergence on the movement out of the self divergence on",
+      "length": 10,
+      "count": 2,
+      "paragraphs": [
+        104,
+        119
+      ]
+    },
+    {
+      "phrase": "ground christian judgment and resurrection death as doorway onto judgment",
+      "length": 10,
+      "count": 2,
+      "paragraphs": [
+        167,
+        248
+      ]
+    },
+    {
+      "phrase": "know thyself wisdom as awareness of one's own ignorance the",
+      "length": 10,
+      "count": 2,
+      "paragraphs": [
+        103,
+        214
+      ]
+    },
+    {
+      "phrase": "life the evening examination premeditation of adversity letters as formation",
+      "length": 10,
+      "count": 2,
+      "paragraphs": [
+        137,
+        235
+      ]
+    },
+    {
+      "phrase": "dive michael levenson carolyn aldwin wisdom as self-transcendence the",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        103,
+        227
+      ]
+    },
+    {
+      "phrase": "fragile precisely here the genuinely wise tend to be",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        83,
+        90
+      ]
+    },
+    {
+      "phrase": "is not taught as a subject it is formed",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        19,
+        38
+      ]
+    },
+    {
+      "phrase": "john the evangelist paul the logos personalized and incarnate",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        66,
+        216
+      ]
+    },
+    {
+      "phrase": "lever virtue as moderator grossmann kross huynh et al",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        85,
+        223
+      ]
+    },
+    {
+      "phrase": "the claim that death is not the last word",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        182,
+        191
+      ]
+    },
+    {
+      "phrase": "the toronto wisdom task force common wisdom model morally-grounded",
+      "length": 9,
+      "count": 2,
+      "paragraphs": [
+        85,
+        225
+      ]
+    },
+    {
+      "phrase": "arnold davidson editor and principal interpreter of hadot",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        118,
+        231
+      ]
+    },
+    {
+      "phrase": "convergence at the dimensions divergence at the ground",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        191,
+        195
+      ]
+    },
+    {
+      "phrase": "hadot's foil convergence on practice divergence on destination",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        118,
+        232
+      ]
+    },
+    {
+      "phrase": "priority of the definition teachability of virtue recollection",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        44,
+        214
+      ]
+    },
+    {
+      "phrase": "the empirical turn is the modern attempt to",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        42,
+        68
+      ]
+    },
+    {
+      "phrase": "the explicit dual-scale of the mirror governing note",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        129,
+        137
+      ]
+    },
+    {
+      "phrase": "to a greater whole without naming the whole",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        99,
+        203
+      ]
+    },
+    {
+      "phrase": "with no theological stake across four decades and",
+      "length": 8,
+      "count": 2,
+      "paragraphs": [
+        81,
+        199
+      ]
+    },
+    {
+      "phrase": "a transcendent good that is not god",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        150,
+        200
+      ]
+    },
+    {
+      "phrase": "at the highest stakes the subject contains",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        191,
+        201
+      ]
+    },
+    {
+      "phrase": "carries the explicit dual-scale of the mirror",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        137,
+        237
+      ]
+    },
+    {
+      "phrase": "ground a good that is not god",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "how it appears inside and out live",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        105,
+        191
+      ]
+    },
+    {
+      "phrase": "humility about the limits of one's knowledge",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        81,
+        198
+      ]
+    },
+    {
+      "phrase": "is candidate material for the cross-cutting finding",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        104,
+        168
+      ]
+    },
+    {
+      "phrase": "is the only posture from which a",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        166,
+        190
+      ]
+    },
+    {
+      "phrase": "michel foucault the care of the self",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        118,
+        232
+      ]
+    },
+    {
+      "phrase": "no answer to put in their place",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        178,
+        203
+      ]
+    },
+    {
+      "phrase": "no transcendent reference alasdair macintyre after virtue",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        147,
+        153
+      ]
+    },
+    {
+      "phrase": "of the self the aesthetics of existence",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        118,
+        232
+      ]
+    },
+    {
+      "phrase": "personal wisdom insight into one's own life",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        71,
+        95
+      ]
+    },
+    {
+      "phrase": "reads at both scales of the mirror",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        86,
+        101
+      ]
+    },
+    {
+      "phrase": "that genuine heroism requires a transcendent referent",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        178,
+        203
+      ]
+    },
+    {
+      "phrase": "that modern hero-systems no longer convince and",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        178,
+        203
+      ]
+    },
+    {
+      "phrase": "the aporetic close and divine dispensation the",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        44,
+        214
+      ]
+    },
+    {
+      "phrase": "the completion of the christian ars moriendi",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        193,
+        258
+      ]
+    },
+    {
+      "phrase": "the concrete question of whether anything survives",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        165,
+        201
+      ]
+    },
+    {
+      "phrase": "the ineffable way nothing transcendent at all",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        18,
+        200
+      ]
+    },
+    {
+      "phrase": "the light the darkness has not overcome",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        192,
+        205
+      ]
+    },
+    {
+      "phrase": "the praj aparamita tradition praj a nyat",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        66,
+        218
+      ]
+    },
+    {
+      "phrase": "the trained capacity to deliberate well about",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        33,
+        46
+      ]
+    },
+    {
+      "phrase": "you know it when you see it",
+      "length": 7,
+      "count": 2,
+      "paragraphs": [
+        83,
+        93
+      ]
+    },
+    {
+      "phrase": "a reader who has watched the",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        186,
+        206
+      ]
+    },
+    {
+      "phrase": "and its refusal to blame are",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        152,
+        154
+      ]
+    },
+    {
+      "phrase": "as the fruit of a life",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        39,
+        44
+      ]
+    },
+    {
+      "phrase": "at the threshold of the ground",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        82,
+        169
+      ]
+    },
+    {
+      "phrase": "be re-confirmed against primary sources before",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        86,
+        181
+      ]
+    },
+    {
+      "phrase": "buddhist liberation from rebirth hindu moksha",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        193,
+        259
+      ]
+    },
+    {
+      "phrase": "cases stay in their home texts",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        20,
+        45
+      ]
+    },
+    {
+      "phrase": "christ as the wisdom of god",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        66,
+        216
+      ]
+    },
+    {
+      "phrase": "dependent origination wisdom yoked to compassion",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        66,
+        218
+      ]
+    },
+    {
+      "phrase": "dive the traditions and their grounds",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        1,
+        26
+      ]
+    },
+    {
+      "phrase": "envision asked what wisdom is what",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        105,
+        191
+      ]
+    },
+    {
+      "phrase": "fear of the lord as beginning",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        66,
+        215
+      ]
+    },
+    {
+      "phrase": "good that is not god the",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        200,
+        242
+      ]
+    },
+    {
+      "phrase": "ground nothing beyond death as wall",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        167,
+        249
+      ]
+    },
+    {
+      "phrase": "igor grossmann wise reasoning solomon's paradox",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        85,
+        223
+      ]
+    },
+    {
+      "phrase": "martha nussbaum the therapy of desire",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        118,
+        240
+      ]
+    },
+    {
+      "phrase": "measure folds in increasing spirituality and",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        99,
+        203
+      ]
+    },
+    {
+      "phrase": "pursuing wisdom with no theological stake",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        68,
+        199
+      ]
+    },
+    {
+      "phrase": "pushback is recorded as a finding",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        16,
+        47
+      ]
+    },
+    {
+      "phrase": "rehearsal of death melet thanatou the",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        156,
+        167
+      ]
+    },
+    {
+      "phrase": "synth envision asked what wisdom is",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        105,
+        155
+      ]
+    },
+    {
+      "phrase": "that something other than oneself is",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        144,
+        152
+      ]
+    },
+    {
+      "phrase": "the de-centering of the self the",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        81,
+        198
+      ]
+    },
+    {
+      "phrase": "the death-chapter of the formation thesis",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        177,
+        181
+      ]
+    },
+    {
+      "phrase": "the light shines in the darkness",
+      "length": 6,
+      "count": 2,
+      "paragraphs": [
+        14,
+        185
+      ]
+    },
+    {
+      "phrase": "and wrote the convergence down",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        81,
+        199
+      ]
+    },
+    {
+      "phrase": "belonging to a greater whole",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        111,
+        203
+      ]
+    },
+    {
+      "phrase": "candidate for the writing synth",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        138,
+        154
+      ]
+    },
+    {
+      "phrase": "diagnose the loss as ours",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        12,
+        102
+      ]
+    },
+    {
+      "phrase": "dive is where the witness",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        179,
+        191
+      ]
+    },
+    {
+      "phrase": "dive the definitional fault line",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        1,
+        26
+      ]
+    },
+    {
+      "phrase": "dive the practical canon dive",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        1,
+        118
+      ]
+    },
+    {
+      "phrase": "divergence is at the ground",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        7,
+        63
+      ]
+    },
+    {
+      "phrase": "each movement envision live die",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        20,
+        209
+      ]
+    },
+    {
+      "phrase": "earns its shape from the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        26,
+        195
+      ]
+    },
+    {
+      "phrase": "feeds back to dive and",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        86,
+        154
+      ]
+    },
+    {
+      "phrase": "gather broadly spend carefully the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        0,
+        3
+      ]
+    },
+    {
+      "phrase": "general wisdom insight into life",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        71,
+        95
+      ]
+    },
+    {
+      "phrase": "ground at full strength and",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        7,
+        46
+      ]
+    },
+    {
+      "phrase": "in the governing note and",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        0,
+        196
+      ]
+    },
+    {
+      "phrase": "instance feeding the cross-cutting finding",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        119,
+        138
+      ]
+    },
+    {
+      "phrase": "is the author's own ground",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        53,
+        166
+      ]
+    },
+    {
+      "phrase": "is the convergence divergence structure",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        94,
+        165
+      ]
+    },
+    {
+      "phrase": "is to learn to live",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        159,
+        189
+      ]
+    },
+    {
+      "phrase": "is where the witness testifies",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        168,
+        181
+      ]
+    },
+    {
+      "phrase": "its shape from the material",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        16,
+        26
+      ]
+    },
+    {
+      "phrase": "light bridge to the author's",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        118,
+        181
+      ]
+    },
+    {
+      "phrase": "not the last word is",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        168,
+        183
+      ]
+    },
+    {
+      "phrase": "not the last word the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        1,
+        205
+      ]
+    },
+    {
+      "phrase": "of desire attention to others",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        18,
+        198
+      ]
+    },
+    {
+      "phrase": "on its own terms the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        48,
+        53
+      ]
+    },
+    {
+      "phrase": "on the shortness of life",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        123,
+        137
+      ]
+    },
+    {
+      "phrase": "on what the end is",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        155,
+        201
+      ]
+    },
+    {
+      "phrase": "people reason more wisely about",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        76,
+        95
+      ]
+    },
+    {
+      "phrase": "politics phronesis is already social",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "reason and john's incarnate person",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        18,
+        201
+      ]
+    },
+    {
+      "phrase": "self-knowledge is the hardest wisdom",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        77,
+        151
+      ]
+    },
+    {
+      "phrase": "that matters most to this",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        68,
+        112
+      ]
+    },
+    {
+      "phrase": "the acceptance of limit and",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        18,
+        198
+      ]
+    },
+    {
+      "phrase": "the convergence and the divergence",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        150,
+        203
+      ]
+    },
+    {
+      "phrase": "the discipline holds governing note",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        166,
+        179
+      ]
+    },
+    {
+      "phrase": "the divergence at the ground",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        22,
+        209
+      ]
+    },
+    {
+      "phrase": "the dual-scale axis plato socrates",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "the enemy of moral vision",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        143,
+        149
+      ]
+    },
+    {
+      "phrase": "the fear of the lord",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        48,
+        215
+      ]
+    },
+    {
+      "phrase": "the governing note and the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        196,
+        211
+      ]
+    },
+    {
+      "phrase": "the immortal soul the forms",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        157,
+        214
+      ]
+    },
+    {
+      "phrase": "the jewel-case of convergence divergence",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        153,
+        242
+      ]
+    },
+    {
+      "phrase": "the outside view of oneself",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        97,
+        151
+      ]
+    },
+    {
+      "phrase": "the personal and the social",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        129,
+        209
+      ]
+    },
+    {
+      "phrase": "the phronimos as ethical standard",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "the priority of the definition",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        36,
+        44
+      ]
+    },
+    {
+      "phrase": "the resurrection and the life",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        184,
+        193
+      ]
+    },
+    {
+      "phrase": "the san diego wisdom scale",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        78,
+        224
+      ]
+    },
+    {
+      "phrase": "the witness's ground comparative doorways",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        193,
+        258
+      ]
+    },
+    {
+      "phrase": "this dive is where the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        139,
+        182
+      ]
+    },
+    {
+      "phrase": "to be wise is to",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        55,
+        57
+      ]
+    },
+    {
+      "phrase": "wall held in good faith",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        206,
+        249
+      ]
+    },
+    {
+      "phrase": "were not trying to agree",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        81,
+        199
+      ]
+    },
+    {
+      "phrase": "when the master is assembled",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        86,
+        104
+      ]
+    },
+    {
+      "phrase": "whether it can be measured",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        105,
+        191
+      ]
+    },
+    {
+      "phrase": "without naming the whole the",
+      "length": 5,
+      "count": 2,
+      "paragraphs": [
+        99,
+        228
+      ]
+    },
+    {
+      "phrase": "a ground it cannot",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        82,
+        204
+      ]
+    },
+    {
+      "phrase": "about how to live",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        46,
+        107
+      ]
+    },
+    {
+      "phrase": "and it is offered",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        185,
+        192
+      ]
+    },
+    {
+      "phrase": "and it is precisely",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        163,
+        177
+      ]
+    },
+    {
+      "phrase": "and it is where",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        10,
+        42
+      ]
+    },
+    {
+      "phrase": "and one governing principle",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        0,
+        3
+      ]
+    },
+    {
+      "phrase": "and the common good",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        72,
+        80
+      ]
+    },
+    {
+      "phrase": "and the two verbs",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        176,
+        210
+      ]
+    },
+    {
+      "phrase": "and the voice palette",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        29,
+        30
+      ]
+    },
+    {
+      "phrase": "answers the question becker",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        179,
+        181
+      ]
+    },
+    {
+      "phrase": "as a body of",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        71,
+        106
+      ]
+    },
+    {
+      "phrase": "at the center of",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        145,
+        203
+      ]
+    },
+    {
+      "phrase": "at the ground dive",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        32,
+        191
+      ]
+    },
+    {
+      "phrase": "at the ground the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        7,
+        187
+      ]
+    },
+    {
+      "phrase": "at their full height",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        166,
+        190
+      ]
+    },
+    {
+      "phrase": "because we see wrongly",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        143,
+        152
+      ]
+    },
+    {
+      "phrase": "belonging to a whole",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        113,
+        203
+      ]
+    },
+    {
+      "phrase": "beneath the shared dimensions",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        63,
+        200
+      ]
+    },
+    {
+      "phrase": "built v dive the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        26
+      ]
+    },
+    {
+      "phrase": "but the one who",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        34,
+        188
+      ]
+    },
+    {
+      "phrase": "consolidated thinker source catalogue",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        1,
+        212
+      ]
+    },
+    {
+      "phrase": "convergence is at the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        7,
+        62
+      ]
+    },
+    {
+      "phrase": "death faced in hope",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        193,
+        258
+      ]
+    },
+    {
+      "phrase": "death is a doorway",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        157,
+        161
+      ]
+    },
+    {
+      "phrase": "dilip jeste michael thomas",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        85,
+        224
+      ]
+    },
+    {
+      "phrase": "dive takes up the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        42,
+        155
+      ]
+    },
+    {
+      "phrase": "dive the cross-cutting finding",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        194
+      ]
+    },
+    {
+      "phrase": "dive the modern reckoning",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        1,
+        168
+      ]
+    },
+    {
+      "phrase": "does not lean on",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        7,
+        204
+      ]
+    },
+    {
+      "phrase": "earn its shape from",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        16,
+        194
+      ]
+    },
+    {
+      "phrase": "flag prominently at assembly",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        154,
+        168
+      ]
+    },
+    {
+      "phrase": "from inside and out",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        87,
+        104
+      ]
+    },
+    {
+      "phrase": "getting outside the self",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        99,
+        111
+      ]
+    },
+    {
+      "phrase": "ground the immortal soul",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        167,
+        214
+      ]
+    },
+    {
+      "phrase": "has reason to weigh",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        186,
+        206
+      ]
+    },
+    {
+      "phrase": "impersonal rational principle that",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        55,
+        61
+      ]
+    },
+    {
+      "phrase": "in print that he",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        178,
+        203
+      ]
+    },
+    {
+      "phrase": "in the first person",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        49,
+        184
+      ]
+    },
+    {
+      "phrase": "is the conceptual spine",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        19,
+        45
+      ]
+    },
+    {
+      "phrase": "is the cure and",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        169,
+        176
+      ]
+    },
+    {
+      "phrase": "is the discipline that",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        35,
+        186
+      ]
+    },
+    {
+      "phrase": "is the disease the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        169,
+        176
+      ]
+    },
+    {
+      "phrase": "is what the book",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        136,
+        209
+      ]
+    },
+    {
+      "phrase": "it cannot be taught",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        38,
+        110
+      ]
+    },
+    {
+      "phrase": "it does so openly",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        182,
+        205
+      ]
+    },
+    {
+      "phrase": "it is the discipline",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        122,
+        186
+      ]
+    },
+    {
+      "phrase": "it is where the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        42,
+        181
+      ]
+    },
+    {
+      "phrase": "it shows what the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        187,
+        190
+      ]
+    },
+    {
+      "phrase": "its own subject the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        59,
+        117
+      ]
+    },
+    {
+      "phrase": "morally-grounded application of metacognition",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        80,
+        85
+      ]
+    },
+    {
+      "phrase": "nicomachean ethics vi the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "of learning to die",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        160,
+        169
+      ]
+    },
+    {
+      "phrase": "of the ars moriendi",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        164,
+        168
+      ]
+    },
+    {
+      "phrase": "of the ego the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        97,
+        98
+      ]
+    },
+    {
+      "phrase": "of the inside outside",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        86,
+        148
+      ]
+    },
+    {
+      "phrase": "of the live movement",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        118,
+        148
+      ]
+    },
+    {
+      "phrase": "of the mirror a",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        77,
+        101
+      ]
+    },
+    {
+      "phrase": "of the whole compendium",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        145,
+        208
+      ]
+    },
+    {
+      "phrase": "on formed character ethics",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "once more now in",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        94,
+        120
+      ]
+    },
+    {
+      "phrase": "precedent tmm's two-part structure",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        20,
+        45
+      ]
+    },
+    {
+      "phrase": "problems than their own",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        76,
+        95
+      ]
+    },
+    {
+      "phrase": "reaches the dimensions and",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        82,
+        202
+      ]
+    },
+    {
+      "phrase": "recover the facing the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        176,
+        178
+      ]
+    },
+    {
+      "phrase": "resolves the meno paradox",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        19,
+        40
+      ]
+    },
+    {
+      "phrase": "same shape different foundation",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        18,
+        197
+      ]
+    },
+    {
+      "phrase": "see one's own life",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        97,
+        148
+      ]
+    },
+    {
+      "phrase": "self-distancing as the lever",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        103,
+        223
+      ]
+    },
+    {
+      "phrase": "sort what you control",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        124,
+        134
+      ]
+    },
+    {
+      "phrase": "synth and here is",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        82,
+        145
+      ]
+    },
+    {
+      "phrase": "synth learning to die",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        159,
+        189
+      ]
+    },
+    {
+      "phrase": "synth the witness implication",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        117,
+        152
+      ]
+    },
+    {
+      "phrase": "synth the witness note",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        166,
+        179
+      ]
+    },
+    {
+      "phrase": "that the ground is",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        150,
+        204
+      ]
+    },
+    {
+      "phrase": "the balancing of interests",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        72,
+        80
+      ]
+    },
+    {
+      "phrase": "the common wisdom model",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        83,
+        203
+      ]
+    },
+    {
+      "phrase": "the convergence-at-dimensions divergence-at-ground structure",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        64,
+        194
+      ]
+    },
+    {
+      "phrase": "the cross-cutting finding convergence",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        119,
+        195
+      ]
+    },
+    {
+      "phrase": "the dimensions and the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        206,
+        209
+      ]
+    },
+    {
+      "phrase": "the dimensions the traditions",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        81,
+        192
+      ]
+    },
+    {
+      "phrase": "the dissolution of the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        58,
+        97
+      ]
+    },
+    {
+      "phrase": "the elder is recognized",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        40,
+        92
+      ]
+    },
+    {
+      "phrase": "the examination of conscience",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        109,
+        114
+      ]
+    },
+    {
+      "phrase": "the facing of death",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        187,
+        189
+      ]
+    },
+    {
+      "phrase": "the fragility of goodness",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        147,
+        240
+      ]
+    },
+    {
+      "phrase": "the governing note apparatus",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "phrase": "the ground here is",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        157,
+        163
+      ]
+    },
+    {
+      "phrase": "the ground is not",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        48,
+        165
+      ]
+    },
+    {
+      "phrase": "the ground the witness",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        7,
+        210
+      ]
+    },
+    {
+      "phrase": "the hebrew sages proverbs",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        66,
+        215
+      ]
+    },
+    {
+      "phrase": "the hinge of the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        54,
+        118
+      ]
+    },
+    {
+      "phrase": "the individual society mirror",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        20,
+        25
+      ]
+    },
+    {
+      "phrase": "the inside of wisdom",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        88,
+        91
+      ]
+    },
+    {
+      "phrase": "the inside outside gap",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        103,
+        148
+      ]
+    },
+    {
+      "phrase": "the last defeated enemy",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        193,
+        216
+      ]
+    },
+    {
+      "phrase": "the light unovercome john",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        193,
+        216
+      ]
+    },
+    {
+      "phrase": "the movement's central finding",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        164,
+        189
+      ]
+    },
+    {
+      "phrase": "the one who exceeds",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        51,
+        58
+      ]
+    },
+    {
+      "phrase": "the practiced form of",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        104,
+        119
+      ]
+    },
+    {
+      "phrase": "the premeditation of adversity",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        109,
+        123
+      ]
+    },
+    {
+      "phrase": "the refusal to let",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        22,
+        62
+      ]
+    },
+    {
+      "phrase": "the self is the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        96,
+        99
+      ]
+    },
+    {
+      "phrase": "the shape of the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        28,
+        204
+      ]
+    },
+    {
+      "phrase": "the shared lay prototype",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        103,
+        221
+      ]
+    },
+    {
+      "phrase": "the sophia phronesis distinction",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        44,
+        213
+      ]
+    },
+    {
+      "phrase": "the stoic epicurean pairing",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        134,
+        199
+      ]
+    },
+    {
+      "phrase": "the two verbs of",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        164,
+        210
+      ]
+    },
+    {
+      "phrase": "the whole survey every",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        98,
+        210
+      ]
+    },
+    {
+      "phrase": "this all along the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        73,
+        156
+      ]
+    },
+    {
+      "phrase": "this dive is the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        120,
+        177
+      ]
+    },
+    {
+      "phrase": "this is the author's",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        15,
+        53
+      ]
+    },
+    {
+      "phrase": "to find the true",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        114,
+        132
+      ]
+    },
+    {
+      "phrase": "to living well the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        155,
+        167
+      ]
+    },
+    {
+      "phrase": "to recover the lost",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        107,
+        175
+      ]
+    },
+    {
+      "phrase": "unified p framework sternberg",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        85,
+        221
+      ]
+    },
+    {
+      "phrase": "view from above the",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        98,
+        118
+      ]
+    },
+    {
+      "phrase": "what it rests on",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        94,
+        105
+      ]
+    },
+    {
+      "phrase": "what wisdom is but",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        70,
+        105
+      ]
+    },
+    {
+      "phrase": "when at last it",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        186,
+        206
+      ]
+    },
+    {
+      "phrase": "which wisdom it is",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        31,
+        35
+      ]
+    },
+    {
+      "phrase": "wisdom is practiced through",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        120,
+        136
+      ]
+    },
+    {
+      "phrase": "worth a confirming note",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        86,
+        138
+      ]
+    },
+    {
+      "phrase": "written as a declared",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        5,
+        82
+      ]
+    },
+    {
+      "phrase": "younger and older adults",
+      "length": 4,
+      "count": 2,
+      "paragraphs": [
+        76,
+        84
+      ]
+    }
+  ],
+  "top_words": [
+    [
+      "wisdom",
+      182
+    ],
+    [
+      "dive",
+      170
+    ],
+    [
+      "ground",
+      138
+    ],
+    [
+      "death",
+      107
+    ],
+    [
+      "synth",
+      94
+    ],
+    [
+      "life",
+      85
+    ],
+    [
+      "witness",
+      61
+    ],
+    [
+      "attention",
+      47
+    ],
+    [
+      "empirical",
+      46
+    ],
+    [
+      "text",
+      46
+    ],
+    [
+      "live",
+      45
+    ],
+    [
+      "convergence",
+      45
+    ],
+    [
+      "note",
+      42
+    ],
+    [
+      "wise",
+      40
+    ],
+    [
+      "tradition",
+      40
+    ],
+    [
+      "die",
+      39
+    ],
+    [
+      "governing",
+      38
+    ],
+    [
+      "book",
+      38
+    ],
+    [
+      "good",
+      38
+    ],
+    [
+      "god",
+      37
+    ],
+    [
+      "self",
+      37
+    ],
+    [
+      "inside",
+      36
+    ],
+    [
+      "divergence",
+      36
+    ],
+    [
+      "toward",
+      34
+    ],
+    [
+      "outside",
+      33
+    ]
+  ],
+  "tracked_terms": {
+    "wisdom": {
+      "count": 93,
+      "paragraphs": [
+        0,
+        3,
+        10,
+        14,
+        19,
+        21,
+        26,
+        29,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        58,
+        59,
+        62,
+        66,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        78,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        100,
+        101,
+        103,
+        104,
+        105,
+        110,
+        115,
+        116,
+        117,
+        120,
+        136,
+        151,
+        155,
+        191,
+        199,
+        203,
+        204,
+        207,
+        213,
+        214,
+        215,
+        216,
+        218,
+        220,
+        221,
+        222,
+        224,
+        225,
+        228,
+        229
+      ],
+      "min_paragraph_gap": 1,
+      "density_paras_per_hit": 2.8
+    },
+    "witness": {
+      "count": 41,
+      "paragraphs": [
+        0,
+        5,
+        7,
+        9,
+        12,
+        13,
+        14,
+        20,
+        21,
+        23,
+        27,
+        29,
+        82,
+        86,
+        100,
+        102,
+        115,
+        117,
+        119,
+        136,
+        138,
+        150,
+        152,
+        166,
+        168,
+        179,
+        181,
+        182,
+        185,
+        186,
+        190,
+        191,
+        192,
+        194,
+        196,
+        197,
+        204,
+        205,
+        206,
+        208,
+        210
+      ],
+      "min_paragraph_gap": 1,
+      "density_paras_per_hit": 6.4
+    },
+    "virtue": {
+      "count": 22,
+      "paragraphs": [
+        12,
+        13,
+        34,
+        36,
+        38,
+        44,
+        76,
+        85,
+        101,
+        126,
+        137,
+        138,
+        147,
+        149,
+        153,
+        199,
+        214,
+        223,
+        236,
+        243,
+        244,
+        245
+      ],
+      "min_paragraph_gap": 1,
+      "density_paras_per_hit": 11.9
+    },
+    "light": {
+      "count": 18,
+      "paragraphs": [
+        14,
+        45,
+        67,
+        118,
+        133,
+        137,
+        141,
+        171,
+        179,
+        181,
+        185,
+        186,
+        192,
+        193,
+        205,
+        210,
+        216,
+        239
+      ],
+      "min_paragraph_gap": 1,
+      "density_paras_per_hit": 14.5
+    }
+  }
+}
