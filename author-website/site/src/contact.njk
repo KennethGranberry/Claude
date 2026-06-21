@@ -1,0 +1,46 @@
+---
+layout: layouts/base.njk
+title: Contact
+description: Contact Kenneth Granberry — readers, media, and business inquiries.
+permalink: /contact/
+hideNewsletter: true
+---
+<!-- PLACEHOLDER — set the form `action` to a handler (Formspree / Netlify Forms) before launch. -->
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Contact</h1>
+    <p class="lede">For readers, media, and business inquiries. I read what comes in.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap narrow">
+    <form class="form" action="#" method="POST">
+      <p class="form-row">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" required>
+      </p>
+      <p class="form-row">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required>
+      </p>
+      <p class="form-row">
+        <label for="subject">Subject</label>
+        <select id="subject" name="subject">
+          <option>A note from a reader</option>
+          <option>Media / interview</option>
+          <option>Business / speaking</option>
+        </select>
+      </p>
+      <p class="form-row">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
+      </p>
+      <p class="form-row">
+        <button class="btn" type="submit">Send</button>
+      </p>
+      <p class="form-note">Form delivery is not yet wired up — connect a handler (Formspree or Netlify Forms) before launch. Media kit: <a href="/press/">Press</a>.</p>
+    </form>
+  </div>
+</section>

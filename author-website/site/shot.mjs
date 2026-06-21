@@ -2,9 +2,10 @@ import { chromium } from "playwright";
 
 const base = "http://127.0.0.1:8099";
 const shots = [
-  { url: "/", out: "/tmp/home-desktop.png", w: 1280 },
-  { url: "/books/", out: "/tmp/books-index.png", w: 1280 },
-  { url: "/books/the-mirrored-mind/", out: "/tmp/book-flagship.png", w: 1280 },
+  { url: "/about/", out: "/tmp/about.png", w: 1280 },
+  { url: "/contact/", out: "/tmp/contact.png", w: 1280 },
+  { url: "/subscribe/", out: "/tmp/subscribe.png", w: 1280 },
+  { url: "/essays/", out: "/tmp/essays.png", w: 1280 },
 ];
 
 const browser = await chromium.launch();
