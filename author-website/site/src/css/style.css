@@ -162,6 +162,17 @@ img { max-width: 100%; height: auto; display: block; }
 .prose p, .prose li { max-width: var(--measure); }
 .prose h2 { margin-top: 1.8em; }
 
+/* ── Individual book page ─────────────────────────────────────────────── */
+.book-hero { padding: clamp(3.5rem, 8vw, 7rem) 0 clamp(2rem, 4vw, 3.5rem); border-bottom: 1px solid var(--rule); }
+.book-hero h1 { max-width: 20ch; }
+.book-subtitle { font-family: var(--serif-head); font-style: italic; font-size: 1.25rem; color: var(--ink-soft); margin: 0 0 1rem; }
+.sibling-rail { list-style: none; display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; padding: 0; margin: 1rem 0 0; }
+.sibling-rail li { font-family: var(--serif-head); }
+.sibling-rail [aria-current="true"] { color: var(--accent); font-weight: 600; }
+.book .status { margin-top: 0.3rem; }
+.book h3 a { text-decoration: none; color: var(--ink); }
+.book h3 a:hover { color: var(--accent); }
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   * { transition: none !important; }

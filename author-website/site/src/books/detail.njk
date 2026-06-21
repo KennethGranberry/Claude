@@ -1,0 +1,95 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: books.all
+  size: 1
+  alias: book
+permalink: "/books/{{ book.slug }}/"
+eleventyComputed:
+  title: "{{ book.title }}"
+  description: "{{ book.hook or book.title }}"
+---
+
+{% set statusLabel = { available: "Available now", preorder: "Pre-order", forthcoming: "Forthcoming" } %}
+
+<article class="book-page">
+  <section class="book-hero">
+    <div class="wrap">
+      <p class="eyebrow">
+        {% if book.group == "trilogy" %}The Trilogy · Formation in the Age of AI
+        {% elif book.group == "blueprint" %}The Entrepreneur's Blueprint
+        {% elif book.group == "novel" %}A Novel
+        {% else %}Standalone{% endif %}
+      </p>
+      <h1>{{ book.title }}</h1>
+      {% if book.subtitle %}<p class="book-subtitle">{{ book.subtitle }}</p>{% endif %}
+      {% if book.hook %}<p class="lede">{{ book.hook }}</p>{% endif %}
+      <span class="status">{{ statusLabel[book.status] }}</span>
+    </div>
+  </section>
+
+  {% if book.isCollection %}
+  <section class="section">
+    <div class="wrap">
+      <h2>The volumes</h2>
+      <p>{{ book.title }} is a {{ book.volumeCount }}-volume collection. Individual volume pages will appear here as each is prepared.</p>
+    </div>
+  </section>
+  {% endif %}
+
+  {% if book.group == "trilogy" %}
+  <section class="section">
+    <div class="wrap">
+      <h2>Where it falls in the trilogy</h2>
+      <p class="order-rail">
+        <strong>Reading order:</strong>
+        The Center That Cannot Be Empty &rarr; What the Mirror Cannot See &rarr; The Mirrored Mind.
+      </p>
+      <ul class="sibling-rail">
+        {% for slug in books.trilogy.readingOrder %}
+        {% set sib = books.titles[slug] %}
+        <li>
+          {% if slug == book.slug %}
+            <span aria-current="true">{{ sib.title }}</span>
+          {% else %}
+            <a href="/books/{{ slug }}/">{{ sib.title }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>About the book</h2>
+      <p>A full description is being prepared. For now: {{ book.hook or "details to come." }}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>A look inside</h2>
+      <p>An excerpt will be posted here ahead of publication.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {% if book.status == "available" %}
+        <h2>Get the book</h2>
+        <div class="cta-row">
+          <a class="btn" href="#">Order now</a>
+          <a class="btn ghost" href="#">Other retailers</a>
+        </div>
+      {% else %}
+        <h2>Be first to know</h2>
+        <p>{{ book.title }} is {{ statusLabel[book.status] | lower }}. Join the list and I'll write to you the day it's available.</p>
+        <div class="cta-row">
+          <a class="btn" href="/subscribe/">Notify me</a>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+</article>

@@ -1,0 +1,78 @@
+---
+layout: layouts/base.njk
+title: Books
+description: The books and collections of Kenneth Granberry — the trilogy, the Entrepreneur's Blueprint, the standalones, and a novel.
+permalink: /books/
+---
+
+{% macro card(b) %}
+<li class="book{% if b.flagship %} flagship{% endif %}">
+  <h3><a href="/books/{{ b.slug }}/">{{ b.title }}</a></h3>
+  {% if b.subtitle %}<p class="sub">{{ b.subtitle }}</p>{% endif %}
+  {% if b.hook %}<p class="hook">{{ b.hook }}</p>{% endif %}
+  <span class="status">Forthcoming</span>
+</li>
+{% endmacro %}
+
+<section class="hero">
+  <div class="wrap">
+    <h1>The Books</h1>
+    <p class="lede">A body of work on cultural disintegration and the formation of a life in the age of AI — a trilogy, a five-volume collection, several standalones, and a novel.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">The Trilogy</p>
+    <h2>{{ books.trilogy.title }}</h2>
+    <p class="order-rail">
+      <strong>Read in this order:</strong>
+      The Center That Cannot Be Empty &rarr; What the Mirror Cannot See &rarr; The Mirrored Mind.
+      <br>
+      <strong>Published in reverse:</strong>
+      The Mirrored Mind first, then What the Mirror Cannot See, then The Center That Cannot Be Empty.
+    </p>
+    <ul class="book-grid">
+      {% for slug in books.trilogy.readingOrder %}
+        {% set b = books.titles[slug] %}
+        {{ card({ slug: slug, title: b.title, subtitle: b.subtitle, hook: b.hook, flagship: b.flagship }) }}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">The Collection</p>
+    <h2>The Entrepreneur's Blueprint</h2>
+    <ul class="book-grid">
+      {% for b in books.all %}
+        {% if b.group == "blueprint" %}{{ card(b) }}{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">Standalones</p>
+    <h2>Standalone Works</h2>
+    <ul class="book-grid">
+      {% for b in books.all %}
+        {% if b.group == "standalone" %}{{ card(b) }}{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">Fiction</p>
+    <h2>The Novel</h2>
+    <ul class="book-grid">
+      {% for b in books.all %}
+        {% if b.group == "novel" %}{{ card(b) }}{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>

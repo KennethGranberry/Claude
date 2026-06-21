@@ -1,19 +1,19 @@
 import { chromium } from "playwright";
 
-const url = "http://127.0.0.1:8099/";
+const base = "http://127.0.0.1:8099";
+const shots = [
+  { url: "/", out: "/tmp/home-desktop.png", w: 1280 },
+  { url: "/books/", out: "/tmp/books-index.png", w: 1280 },
+  { url: "/books/the-mirrored-mind/", out: "/tmp/book-flagship.png", w: 1280 },
+];
+
 const browser = await chromium.launch();
-
-// Desktop, full page
-const d = await browser.newPage({ viewport: { width: 1280, height: 900 }, deviceScaleFactor: 2 });
-await d.goto(url, { waitUntil: "networkidle" });
-await d.waitForTimeout(600);
-await d.screenshot({ path: "/tmp/home-desktop.png", fullPage: true });
-
-// Mobile, full page
-const m = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 });
-await m.goto(url, { waitUntil: "networkidle" });
-await m.waitForTimeout(600);
-await m.screenshot({ path: "/tmp/home-mobile.png", fullPage: true });
-
+for (const s of shots) {
+  const p = await browser.newPage({ viewport: { width: s.w, height: 900 }, deviceScaleFactor: 2 });
+  await p.goto(base + s.url, { waitUntil: "networkidle" });
+  await p.waitForTimeout(500);
+  await p.screenshot({ path: s.out, fullPage: true });
+  await p.close();
+}
 await browser.close();
 console.log("done");
